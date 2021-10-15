@@ -438,11 +438,11 @@ paginate = 10
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "<p>Moths and Butterflies Australasia' (MABA) is a not-for-profit organisation with charitable status.</p>"
+    copyright = "Copyright (c) 2021, Moth and Butterfly Australasia; all rights reserved."
 
     # Format dates with Go's time formatting
-    date_format = "January 2, 2006"
+    date_format = "2 January, 2006"
 
     disabled_logo = false
     logo_text = "Universal"
@@ -533,7 +533,7 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = "Check out the latest project MABA sponsors"
     hide_summary = false
 
 [params.footer.recent_posts]
