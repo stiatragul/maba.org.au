@@ -26,34 +26,34 @@ paginate = 10
     weight     = 1
 
 [[menu.main]]
-    name       = "Option 1: Default Page"
+    name       = "Contact us"
     url        = "/"
     weight     = 1
     parent     = "menu.home"
 
-[[menu.main]]
-    name       = "Option 2: Application"
-    url        = "/"
-    weight     = 2
-    parent     = "menu.home"
+# [[menu.main]]
+#     name       = "Option 2: Application"
+#     url        = "/"
+#     weight     = 2
+#     parent     = "menu.home"
 
-[[menu.main]]
-    name       = "Option 3: Startup"
-    url        = "/"
-    weight     = 3
-    parent     = "menu.home"
+# [[menu.main]]
+#     name       = "Option 3: Startup"
+#     url        = "/"
+#     weight     = 3
+#     parent     = "menu.home"
 
-[[menu.main]]
-    name       = "Option 4: Agency"
-    url        = "/"
-    weight     = 4
-    parent     = "menu.home"
+# [[menu.main]]
+#     name       = "Option 4: Agency"
+#     url        = "/"
+#     weight     = 4
+#     parent     = "menu.home"
 
-[[menu.main]]
-    name       = "Option 5: Portfolio"
-    url        = "/"
-    weight     = 5
-    parent     = "menu.home"
+# [[menu.main]]
+#     name       = "Option 5: Portfolio"
+#     url        = "/"
+#     weight     = 5
+#     parent     = "menu.home"
 
 [[menu.main]]
     name       = "Features"
