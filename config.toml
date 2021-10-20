@@ -50,167 +50,167 @@ paginate = 10
 #     parent     = "menu.home"
 
 # [[menu.main]]
-#     name       = "Option 5: Portfolio"
+#     name       = "Option 5: Membership"
 #     url        = "/"
 #     weight     = 5
 #     parent     = "menu.home"
 
-[[menu.main]]
-    name       = "Features"
-    identifier = "menu.features"
-    url        = "/img/template-easy-customize.png"
-    weight     = 3
+# [[menu.main]]
+#     name       = "Features"
+#     identifier = "menu.features"
+#     url        = "/img/template-easy-customize.png"
+#     weight     = 3
+
+# [[menu.main]]
+#     name       = "Shortcodes"
+#     identifier = "section.shortcodes"
+#     url        = ""
+#     weight     = 1
+#     parent     = "menu.features"
+#     post       = 1
+
+# [[menu.main]]
+#     name       = "Header variations"
+#     identifier = "section.headervariations"
+#     url        = ""
+#     weight     = 2
+#     parent     = "menu.features"
+#     post       = 2
+
+# [[menu.main]]
+#     name       = "Accordions"
+#     url        = ""
+#     weight     = 1
+#     parent     = "section.shortcodes"
+
+# [[menu.main]]
+#     name       = "Alerts"
+#     url        = ""
+#     weight     = 2
+#     parent     = "section.shortcodes"
+
+# [[menu.main]]
+#     name       = "Buttons"
+#     url        = ""
+#     weight     = 3
+#     parent     = "section.shortcodes"
+
+# [[menu.main]]
+#     name       = "Content Boxes"
+#     url        = ""
+#     weight     = 4
+#     parent     = "section.shortcodes"
+
+# [[menu.main]]
+#     name       = "Horizontal Blocks"
+#     url        = ""
+#     weight     = 5
+#     parent     = "section.shortcodes"
+
+# [[menu.main]]
+#     name       = "Pagination"
+#     url        = ""
+#     weight     = 6
+#     parent     = "section.shortcodes"
+
+# [[menu.main]]
+#     name       = "Tabs"
+#     url        = ""
+#     weight     = 7
+#     parent     = "section.shortcodes"
+
+# [[menu.main]]
+#     name       = "Typography"
+#     url        = ""
+#     weight     = 8
+#     parent     = "section.shortcodes"
+
+# [[menu.main]]
+#     name       = "Default Sticky Header"
+#     url        = ""
+#     weight     = 1
+#     parent     = "section.headervariations"
+
+# [[menu.main]]
+#     name       = "No Sticky Header"
+#     url        = ""
+#     weight     = 2
+#     parent     = "section.headervariations"
+
+# [[menu.main]]
+#     name       = "Light Header"
+#     url        = ""
+#     weight     = 3
+#     parent     = "section.headervariations"
 
 [[menu.main]]
-    name       = "Shortcodes"
-    identifier = "section.shortcodes"
-    url        = ""
-    weight     = 1
-    parent     = "menu.features"
-    post       = 1
-
-[[menu.main]]
-    name       = "Header variations"
-    identifier = "section.headervariations"
-    url        = ""
-    weight     = 2
-    parent     = "menu.features"
-    post       = 2
-
-[[menu.main]]
-    name       = "Accordions"
-    url        = ""
-    weight     = 1
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Alerts"
-    url        = ""
-    weight     = 2
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Buttons"
-    url        = ""
-    weight     = 3
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Content Boxes"
-    url        = ""
-    weight     = 4
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Horizontal Blocks"
-    url        = ""
-    weight     = 5
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Pagination"
-    url        = ""
-    weight     = 6
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Tabs"
-    url        = ""
-    weight     = 7
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Typography"
-    url        = ""
-    weight     = 8
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Default Sticky Header"
-    url        = ""
-    weight     = 1
-    parent     = "section.headervariations"
-
-[[menu.main]]
-    name       = "No Sticky Header"
-    url        = ""
-    weight     = 2
-    parent     = "section.headervariations"
-
-[[menu.main]]
-    name       = "Light Header"
-    url        = ""
-    weight     = 3
-    parent     = "section.headervariations"
-
-[[menu.main]]
-    name       = "Portfolio"
-    identifier = "menu.portfolio"
+    name       = "Membership"
+    identifier = "menu.membership"
     url        = "/img/template-homepage.png"
     weight     = 3
 
 [[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.portfolio"
+    name       = "Membership"
+    identifier = "section.membership"
     url        = ""
     weight     = 1
-    parent     = "menu.portfolio"
+    parent     = "menu.membership"
     post       = 1
 
-[[menu.main]]
-    name       = "2 Columns"
-    url        = ""
-    weight     = 1
-    parent     = "section.portfolio"
+# [[menu.main]]
+#     name       = "2 Columns"
+#     url        = ""
+#     weight     = 1
+#     parent     = "section.membership"
+
+# [[menu.main]]
+#     name       = "2 Columns With Negative Space"
+#     url        = ""
+#     weight     = 2
+#     parent     = "section.membership"
+
+# [[menu.main]]
+#     name       = "3 Columns"
+#     url        = ""
+#     weight     = 3
+#     parent     = "section.membership"
+
+# [[menu.main]]
+#     name       = "3 Columns With Negative Space"
+#     url        = ""
+#     weight     = 4
+#     parent     = "section.membership"
+
+# [[menu.main]]
+#     name       = "4 Columns"
+#     url        = ""
+#     weight     = 5
+#     parent     = "section.membership"
+
+# [[menu.main]]
+#     name       = "4 Columns With Negative Space"
+#     url        = ""
+#     weight     = 6
+#     parent     = "section.membership"
 
 [[menu.main]]
-    name       = "2 Columns With Negative Space"
-    url        = ""
-    weight     = 2
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "3 Columns"
-    url        = ""
-    weight     = 3
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "3 Columns With Negative Space"
-    url        = ""
-    weight     = 4
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "4 Columns"
-    url        = ""
-    weight     = 5
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "4 Columns With Negative Space"
-    url        = ""
-    weight     = 6
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "Portfolio - detail"
-    url        = ""
+    name       = "Benefits"
+    url        = "/content/membership/"
     weight     = 7
-    parent     = "section.portfolio"
+    parent     = "section.membership"
 
 [[menu.main]]
-    name       = "Portfolio - detail 2"
-    url        = ""
+    name       = "Membership categories"
+    url        = "/contact/"
     weight     = 8
-    parent     = "section.portfolio"
+    parent     = "section.membership"
 
 [[menu.main]]
     name       = "About"
     identifier = "section.about"
     url        = ""
     weight     = 2
-    parent     = "menu.portfolio"
+    parent     = "menu.membership"
     post       = 2
 
 [[menu.main]]
@@ -230,7 +230,7 @@ paginate = 10
     identifier = "section.marketing"
     url        = ""
     weight     = 3
-    parent     = "menu.portfolio"
+    parent     = "menu.membership"
     post       = 2
 
 [[menu.main]]
@@ -270,8 +270,8 @@ paginate = 10
     post       = 1
 
 [[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.ap-portfolio"
+    name       = "Membership"
+    identifier = "section.ap-membership"
     url        = ""
     weight     = 1
     parent     = "menu.allpages"
@@ -361,7 +361,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 2
     name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
+    url = "https://github.com/"
     pre = "<i class='fab fa-2x fa-github'></i>"
 
 [[menu.topbar]]
@@ -507,7 +507,7 @@ paginate = 10
     # For more informtion take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
@@ -515,7 +515,7 @@ paginate = 10
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "far fa-file-alt"
     title = "Do you want to see more?"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
@@ -523,7 +523,7 @@ paginate = 10
     link_text = "Check other homepages"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
