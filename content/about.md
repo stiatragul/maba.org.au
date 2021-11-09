@@ -1,7 +1,7 @@
----
-title: "About"
-date: 2021-10-15T17:15:30+11:00
-draft: true
----
++++
+title = "About"
+description = "Frequently asked questions"
+keywords = ["FAQ","How do I","questions","what if"]
++++
 
 We are the Moth and Butterfly Australasia
