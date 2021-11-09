@@ -75,13 +75,13 @@ paginate = 10
 
 [[menu.main]]
     name       = "New members"
-    url        = "/membership/new_members/"
+    url        = "https://somelink.com"
     weight     = 1
     parent     = "section.membership.form"
 
 [[menu.main]]
     name       = "Member renewal"
-    url        = ""
+    url        = "https://somelink.com"
     weight     = 2
     parent     = "section.membership.form"
 
