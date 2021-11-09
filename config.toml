@@ -49,7 +49,7 @@ paginate = 10
 
 [[menu.main]]
     name       = "Benefits"
-    url        = "/membership/benefits"
+    url        = "/membership/benefits/"
     weight     = 2
     parent     = "section.membership"
 
@@ -61,7 +61,7 @@ paginate = 10
 
 [[menu.main]]
     name       = "Subscription fees"
-    url        = ""
+    url        = "/membership/subscription_fees/"
     weight     = 4
     parent     = "section.membership"
 
@@ -75,7 +75,7 @@ paginate = 10
 
 [[menu.main]]
     name       = "New members"
-    url        = ""
+    url        = "/membership/new_members/"
     weight     = 1
     parent     = "section.membership.form"
 
@@ -95,7 +95,7 @@ paginate = 10
 [[menu.main]]
     name       = "Meetings"
     # identifier = "section.ap-home"
-    url        = ""
+    url        = "/events/meetings/"
     weight     = 1
     parent     = "menu.events"
     post       = 1
@@ -103,7 +103,7 @@ paginate = 10
 [[menu.main]]
     name       = "Code of conduct"
     # identifier = "section.ap-home"
-    url        = ""
+    url        = "/events/code_of_conduct/"
     weight     = 2
     parent     = "menu.events"
     post       = 1
@@ -117,7 +117,7 @@ paginate = 10
 
 [[menu.main]]
     name       = "Newsletter"
-    url        = ""
+    url        = "/publications/"
     weight     = 1
     parent     = "menu.publications"
     post       = 1
@@ -145,14 +145,14 @@ paginate = 10
 
 [[menu.main]]
     name       = "Our society"
-    url        = ""
+    url        = "/about/society/"
     weight     = 1
     parent     = "menu.about"
     post       = 1
 
 [[menu.main]]
     name       = "Office bearers"
-    url        = ""
+    url        = "/about/office_bearers/"
     weight     = 2
     parent     = "menu.about"
     post       = 1
@@ -245,7 +245,7 @@ paginate = 10
     # longitude = "-77.028333"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "turquoise"
+    style = "green"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
