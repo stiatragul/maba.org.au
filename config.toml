@@ -49,13 +49,13 @@ paginate = 10
 
 [[menu.main]]
     name       = "Benefits"
-    url        = "/content/membership/"
+    url        = "/membership/benefits"
     weight     = 2
     parent     = "section.membership"
 
 [[menu.main]]
     name       = "Membership categories"
-    url        = ""
+    url        = "/membership/membership_categories/"
     weight     = 3
     parent     = "section.membership"
 
