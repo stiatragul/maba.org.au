@@ -8,4 +8,14 @@ id = "contact"
 
 If you have questions about Moth and Butterfly Australasia, please use the contact form below
 
-maba@maba.org.au
+Mailing Address
+
+```
+Moths and Butterflies Australasia Inc.
+c/o Division of Ecology and Evolution, 
+Research School of Biology, RN Robertson Building, 
+46 Sullivans Creek Rd, Australian National University,
+ACTON ACT 2601, AUSTRALIA
+```
+
+Email: enquiries@maba.org.au 
