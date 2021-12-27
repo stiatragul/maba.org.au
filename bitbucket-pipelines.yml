@@ -11,8 +11,7 @@ pipelines:
         - apt-get update -y && apt-get install wget
         - apt-get -y install git
         - wget https://github.com/gohugoio/hugo/releases/download/v0.88.1/hugo_0.88.1_Linux-64bit.deb
-        - sudo dpkg -i hugo*.deb
-        - hugo version
+        - dpkg -i hugo*.deb
         - hugo --minify
       artifacts:
           - public/**
