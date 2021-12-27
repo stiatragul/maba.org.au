@@ -1,33 +1,4 @@
-image: atlassian/default-image:2
-
-options:
-  max-time: 5
-
-pipelines:
-  default:
-  - step:
-      name: Build Hugo
-      script: 
-        - apt-get update -y && apt-get install wget
-        - apt-get -y install git
-        - wget https://github.com/gohugoio/hugo/releases/download/v0.88.1/hugo_0.88.1_Linux-64bit.deb
-        - dpkg -i hugo*.deb
-        - hugo --minify
-      artifacts:
-          - public/**
-  - step:
-      name: Deploy to S3
-      deployment: production
-      script:
-        - pipe: atlassian/aws-s3-deploy:0.3.8
-          variables:
-            AWS_ACCESS_KEY_ID: $AWS_ACCESS_KEY_ID
-            AWS_SECRET_ACCESS_KEY: $AWS_SECRET_ACCESS_KEY
-            AWS_DEFAULT_REGION: 'ap-southeast-2'
-            S3_BUCKET: 'maba-static-site'
-            LOCAL_PATH: 'public'
-
-image: atlassian/default-image:2
+image: atlassian/default-image:3
 
 options:
   max-time: 5
