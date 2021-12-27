@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Authors on Maba Site</title>
-    <link>https://devcows.github.io/hugo-universal-theme/authors/</link>
-    <description>Recent content in Authors on Maba Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://devcows.github.io/hugo-universal-theme/authors/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Authors on Maba Site</title><link>https://tender-hermann-b045e8.netlify.app/authors/</link><description>Recent content in Authors on Maba Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://tender-hermann-b045e8.netlify.app/authors/index.xml" rel="self" type="application/rss+xml"/><item><title>John Doe</title><link>https://tender-hermann-b045e8.netlify.app/authors/john-doe/</link><pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate><guid>https://tender-hermann-b045e8.netlify.app/authors/john-doe/</guid><description/></item><item><title>admin</title><link>https://tender-hermann-b045e8.netlify.app/authors/admin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tender-hermann-b045e8.netlify.app/authors/admin/</guid><description/></item></channel></rss>
