@@ -8,6 +8,47 @@ authors = ["admin"]
 
 # Moths and Butterflies Australasia Inc Council Biographies
 
+
+__President__
+Doug Hilton -
+president@maba.org.au
+
+
+__Vice-President__
+Axel Kallies -
+vice.president@maba.org.au
+
+__Secretary__
+Michael Braby -
+secretary@maba.org.au
+
+__Treasurer__
+Tony Moore -
+treasurer@maba.org.au
+
+__Editor__
+David Britton -
+editor@maba.org.au
+
+__Public Officer__
+Julie Morgan -
+public.officer@maba.org.au
+
+__Councillors:__
+
+Suzi Bond (media/social media officer) -
+media@maba.org.au
+
+Cathy Byrne (education officer) -
+education@maba.org.au
+
+Chris Sanderson (conservation officer) -
+conservation@maba.org.au
+
+position vacant (website officer) -
+website@maba.org.au 
+
+
 ## Patrons
 
 ### Marianne Horak
