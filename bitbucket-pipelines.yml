@@ -21,11 +21,11 @@ pipelines:
     deployment: production
     script:
       - pipe: atlassian/aws-s3-deploy:0.3.8
-      variables:
-        AWS_ACCESS_KEY_ID: $AWS_ACCESS_KEY_ID
-        AWS_SECRET_ACCESS_KEY: $AWS_SECRET_ACCESS_KEY
-        AWS_DEFAULT_REGION: 'ap-southeast-2'
-        S3_BUCKET: 'maba-static-site'
-        LOCAL_PATH: 'public'
+        variables:
+          AWS_ACCESS_KEY_ID: $AWS_ACCESS_KEY_ID
+          AWS_SECRET_ACCESS_KEY: $AWS_SECRET_ACCESS_KEY
+          AWS_DEFAULT_REGION: 'ap-southeast-2'
+          S3_BUCKET: 'maba-static-site'
+          LOCAL_PATH: 'public'
 
 
