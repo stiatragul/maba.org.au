@@ -10,7 +10,7 @@ pipelines:
               AWS_SECRET_ACCESS_KEY: $AWS_SECRET_ACCESS_KEY
               AWS_DEFAULT_REGION: 'ap-southeast-2'
               S3_BUCKET: 'maba-static-site'
-              LOCAL_PATH: $BIT_BUCKET_CLONE_DIR
+              LOCAL_PATH: 'C:\Users\ST\Documents\bitbucket\maba.org.au'
               ACL: 'public-read'
               # DELETE_FLAG: "true"
 
