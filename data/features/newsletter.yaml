@@ -1,5 +1,5 @@
 weight: 5
 name: "Newsletter"
 icon: "far fa-newspaper"
-url: ""
+url: "/publications/"
 description: "Sign up for our newsletter something"
