@@ -237,11 +237,11 @@ paginate = 10
 #    weight     = 5
 
 ## PROJECTS
-[[menu.main]]
-    name       = "Projects"
-    identifier = "menu.projects"
-    url        = "/projects/"
-    weight     = 6
+#[[menu.main]]
+#    name       = "Projects"
+#    identifier = "menu.projects"
+#    url        = "/projects/"
+#    weight     = 6
 
 # [[menu.main]]
 #     name       = "FAQ"
