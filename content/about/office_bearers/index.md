@@ -2,7 +2,6 @@
 title = "Office Bearers"
 description = "Executive members"
 keywords = ["officers"]
-tags = ["about", "who we are"]
 authors = ["admin"]
 +++
 

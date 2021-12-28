@@ -2,7 +2,6 @@
 title = "Subscription fees"
 description = "Subscription fees"
 keywords = ["fees"]
-tags = ["fees"]
 authors = ["admin"]
 +++
 
