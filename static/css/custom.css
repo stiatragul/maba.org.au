@@ -1,11 +1,12 @@
 /* your styles go here */
 /* NOT REDERING */
 
+/* test for colour change */
 :root {
   --primary-accent: #c724bf;
   --navbar-border-top: #d6198e;
   --button-border: #2a7d8c;
-  --link-focus: #267280;
+  --link-focus: #010c0e;
   --form-shadow: rgba(56, 167, 187, 0.6);
   --pagination-bg: #a7dbe5;
   --link-hover-bg: #2c8494;
@@ -27,5 +28,5 @@
 }
 
 .navbar-brand {
-  padding: 0px 15px;
+  padding: 0px 20px;
 }
