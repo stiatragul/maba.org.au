@@ -18,4 +18,4 @@ Research School of Biology, RN Robertson Building,
 ACTON ACT 2601, AUSTRALIA
 ```
 
-Email: enquiries@maba.org.au 
+Email: [enquiries@maba.org.au](enquiries@maba.org.au)
