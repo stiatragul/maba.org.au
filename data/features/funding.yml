@@ -1,5 +1,5 @@
 weight: 4
-name: "Funding"
-icon: "fas fa-book"
-url: ""
-description: "The projects we fund"
+name: "Projects"
+icon: "fas fa-money-check-alt"
+url: "/projects/"
+description: "Learn more about what projects MABA is currently supporting"
