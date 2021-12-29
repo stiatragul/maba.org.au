@@ -73,17 +73,17 @@ paginate = 10
     parent     = "menu.membership"
     post       = 2
 
-[[menu.main]]
-    name       = "New members"
-    url        = "https://somelink.com"
-    weight     = 1
-    parent     = "section.membership.form"
+#[[menu.main]]
+#    name       = "New members"
+#    url        = "https://somelink.com"
+#    weight     = 1
+#    parent     = "section.membership.form"
 
-[[menu.main]]
-    name       = "Member renewal"
-    url        = "https://somelink.com"
-    weight     = 2
-    parent     = "section.membership.form"
+#[[menu.main]]
+#    name       = "Member renewal"
+#    url        = "https://somelink.com"
+#    weight     = 2
+#    parent     = "section.membership.form"
 
 ## EVENTS
 [[menu.main]]
