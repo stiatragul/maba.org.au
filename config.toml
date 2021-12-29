@@ -1,6 +1,7 @@
-baseurl = "https://tender-hermann-b045e8.netlify.app" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "maba.org.au/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Maba Site"
 theme = "hugo-universal-theme"
+uglyurls = true # won't create folder for every post
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
