@@ -3,8 +3,8 @@
 
 /* test for colour change */
 :root {
-  --primary-accent: #c724bf;
-  --navbar-border-top: #d6198e;
+  --primary-accent: #2b8a75;
+  --navbar-border-top: #490b31;
   --button-border: #2a7d8c;
   --link-focus: #010c0e;
   --form-shadow: rgba(56, 167, 187, 0.6);
@@ -19,14 +19,33 @@
 }
 
 .box-image-text .image img {
-  max-height: 500px;
+  max-height: 50px;
   margin: auto;
 }
 
 .box-simple {
-  min-height: 440px;
+  min-height: 10px;
 }
 
 .navbar-brand {
-  padding: 0px 20px;
+  padding: 15px 20px;
+}
+
+ /* Home Carousel masking  */
+
+.home-carousel .dark-mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--primary-accent);
+  opacity: 0.7;
+  filter: alpha(opacity=70);
+}
+
+/* Font size */
+
+#post-content {
+  font-size: 18px;
 }
