@@ -122,7 +122,7 @@ paginate = 10
     parent     = "menu.publications"
     post       = 1
 
-## RESOURCES
+## RESOURCES LINKS
 [[menu.main]]
     name       = "Resources"
     identifier = "menu.resources"
