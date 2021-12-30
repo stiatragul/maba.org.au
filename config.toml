@@ -92,13 +92,13 @@ paginate = 10
     url        = ""
     weight     = 4
 
-[[menu.main]]
-    name       = "Meetings"
-    # identifier = "section.ap-home"
-    url        = "/events/meetings/"
-    weight     = 1
-    parent     = "menu.events"
-    post       = 1
+#[[menu.main]]
+#    name       = "Meetings"
+#    # identifier = "section.ap-home"
+#    url        = "/events/meetings/"
+#    weight     = 1
+#    parent     = "menu.events"
+#    post       = 1
 
 [[menu.main]]
     name       = "Code of conduct"
