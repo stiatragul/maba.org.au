@@ -57,7 +57,7 @@ paginate = 10
     name       = "Membership categories"
     url        = "/membership/membership_categories/"
     weight     = 3
-    parent     = "section.membership"
+   parent     = "section.membership"
 
 [[menu.main]]
     name       = "Subscription fees"
@@ -73,11 +73,11 @@ paginate = 10
     parent     = "menu.membership"
     post       = 2
 
-#[[menu.main]]
-#    name       = "New members"
-#    url        = "https://somelink.com"
-#    weight     = 1
-#    parent     = "section.membership.form"
+[[menu.main]]
+    name       = "New members"
+    url        = ""
+    weight     = 1
+    parent     = "section.membership.form"
 
 #[[menu.main]]
 #    name       = "Member renewal"
@@ -216,7 +216,7 @@ paginate = 10
 
 [[menu.main]]
     name       = "Constitution"
-    url        = "https://maba-static-site.s3.ap-southeast-2.amazonaws.com/maba_documents/MABA_Constitution.pdf"
+    url        = "https://storage.googleapis.com/maba.org.au/other_assets/MABA_Constitution.pdf"
     weight     = 3
     parent     = "menu.about"
     post       = 1
