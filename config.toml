@@ -1,4 +1,4 @@
-baseurl = "//maba.org.au" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "//maba.org.au/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "MABA"
 theme = "hugo-universal-theme"
 relURL = true
