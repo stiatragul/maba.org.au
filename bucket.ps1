@@ -1,3 +1,7 @@
+# gsutil iam ch allUsers:legacyObjectReader gs://maba.org.au
+
+# allUsers:storageObjectViewer
+
 # Delete public folder and its contents
 rm -r public/
 
