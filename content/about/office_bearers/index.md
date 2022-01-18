@@ -12,7 +12,6 @@ __President__
 Doug Hilton -
 president@maba.org.au
 
-
 __Vice-President__
 Axel Kallies -
 vice.president@maba.org.au
@@ -44,8 +43,13 @@ education@maba.org.au
 Chris Sanderson (conservation officer) -
 conservation@maba.org.au
 
+Robert Hoare (New Zealand officer)
+newzealand@maba.org.au
+
 position vacant (website officer) -
 website@maba.org.au 
+
+position vacant (fundraising officer) - 
 
 
 ## Patrons
