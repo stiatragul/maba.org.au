@@ -217,7 +217,7 @@ paginate = 10
 
 [[menu.main]]
     name       = "Constitution"
-    url        = "https://storage.googleapis.com/maba.org.au/other_assets/MABA_Constitution.pdf"
+    url        = "https://raw.githubusercontent.com/stiatragul/maba.org.au/master/documents/MABA_Constitution.pdf"
     weight     = 3
     parent     = "menu.about"
     post       = 1
