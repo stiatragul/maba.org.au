@@ -69,7 +69,7 @@ paginate = 10
 [[menu.main]]
     name       = "Membership form"
     identifier = "section.membership.form"
-    url        = ""
+    url        = "https://raw.githubusercontent.com/stiatragul/maba.org.au/master/documents/2022MABA_membership_application_form_digital.pdf"
     weight     = 2
     parent     = "menu.membership"
     post       = 2
