@@ -224,7 +224,7 @@ paginate = 10
 
 [[menu.main]]
     name       = "Logo"
-    url        = ""
+    url        = "/about/logo/"
     weight     = 4
     parent     = "menu.about"
     post       = 1
@@ -340,8 +340,8 @@ paginate = 10
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Moths and Butterflies Australasia (MABA) is a not-for-profit organisation with charitable status.</p>"
-    copyright = "Copyright (c) 2021, Moth and Butterfly Australasia; all rights reserved."
+    about_us = "<p>Moths and Butterflies Australasia (MABA) is a not-for-profit organisation with charitable status. <b>Contact us at: enquiries@maba.org.au</b></p>"
+    copyright = "Copyright (c) 2022, Moth and Butterfly Australasia; all rights reserved."
     
     # Format dates with Go's time formatting
     date_format = "2 January, 2006"
@@ -368,7 +368,7 @@ paginate = 10
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = false
+    enable = true
     text = """<p class="hidden-sm hidden-xs">Contact us: enquiries@maba.org.au</p>
       <a href="mailto:enquiries@maba.org.au" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
