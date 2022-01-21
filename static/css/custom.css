@@ -1,16 +1,36 @@
 /* your styles go here */
-/* NOT REDERING */
 
-/* test for colour change */
+/* Main theme colour */
 :root {
   --primary-accent: #2b8a75;
-  --navbar-border-top: #490b31;
+  --navbar-border-top: #000000;
   --button-border: #2a7d8c;
   --link-focus: #010c0e;
   --form-shadow: rgba(56, 167, 187, 0.6);
   --pagination-bg: #a7dbe5;
   --link-hover-bg: #2c8494;
   --navbar-focus: #80cbd9;
+}
+
+/* Top bar colour */
+#top {
+  background: #000000;
+  color: #e8ebe9;
+  padding: 10px 0;
+}
+
+#footer {
+  background: #000000;
+  padding: 25px 0;
+  color: #ffffff;
+}
+
+#copyright {
+  background: rgb(41, 36, 36);
+  color: rgb(255, 255, 255);
+  padding: 25px 0;
+  font-size: 12px;
+  line-height: 28px;
 }
 
 .box-image-text .image {
@@ -69,7 +89,7 @@ section, div.section {
   width: 100%;
   height: 100%;
   background: var(--primary-accent);
-  opacity: 0;
+  opacity: 0.2;
   filter: alpha(opacity=10);
 }
 .home-carousel .owl-carousel {
