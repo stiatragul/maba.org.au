@@ -54,6 +54,14 @@ section, div.section {
 
 /* Home Carousel masking  */
 
+.home-carousel {
+  position: relative;
+  background: url('../img/photogrid.jpg') center center repeat;
+  background-size: cover;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
 .home-carousel .dark-mask {
   position: absolute;
   top: 0;
@@ -61,9 +69,78 @@ section, div.section {
   width: 100%;
   height: 100%;
   background: var(--primary-accent);
-  opacity: 0.5;
+  opacity: 0;
   filter: alpha(opacity=10);
 }
+.home-carousel .owl-carousel {
+  padding-top: 60px;
+  padding-bottom: 20px;
+}
+.home-carousel .owl-theme .owl-controls .owl-page span {
+  background: #666;
+}
+.home-carousel .owl-theme .owl-controls .owl-page.active span {
+  background: #fff;
+}
+.home-carousel .owl-theme .owl-controls .owl-page:hover span {
+  background: #fff;
+}
+@media (max-width: 767px) {
+  .home-carousel {
+    text-align: center !important;
+  }
+}
+@media (min-width: 992px) {
+  .home-carousel .right {
+    text-align: right;
+  }
+}
+.home-carousel h1,
+.home-carousel h2,
+.home-carousel h3,
+.home-carousel p,
+.home-carousel ul {
+  color: #fff;
+}
+.home-carousel h1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 46px;
+  opacity: 0;
+  letter-spacing: 0.08em;
+}
+@media (max-width: 991px) {
+  .home-carousel h1 {
+    font-size: 36px;
+  }
+}
+.home-carousel h2 {
+  font-weight: 700;
+  text-transform: uppercase;
+  opacity: 0;
+  font-size: 40px;
+  letter-spacing: 0.08em;
+}
+.home-carousel ul,
+.home-carousel p {
+  font-size: 18px;
+  font-weight: 700;
+  opacity: 0;
+  padding: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.10em;
+}
+@media (max-width: 991px) {
+  .home-carousel ul,
+  .home-carousel p {
+    font-size: 14px;
+  }
+}
+.home-carousel ul li {
+  margin-bottom: 10px;
+}
+
+
 
 /* Font size */
 
