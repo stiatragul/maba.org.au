@@ -349,8 +349,8 @@ paginate = 10
     disabled_logo = false
     logo_text = "Moths and Butterflies Australasia"
 
-    logo = "img/logo_maba_full.png"
-    logo_small = "img/logo_maba_full.png"
+    logo = "img/logo_long.png"
+    logo_small = "img/logo_small.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Moths and Butterflies Australasia Inc.</strong>
         <br>c/o Division of Ecology and Evolution, 
