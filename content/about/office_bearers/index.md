@@ -5,20 +5,22 @@ keywords = ["officers"]
 authors = ["admin"]
 +++
 
-# Moths and Butterflies Australasia Inc Council Biographies
+# Moths and Butterflies Australasia Inc.
+
+### Council Members
 
 
-__President__
+[__President__](#Pres)
 Doug Hilton -
 president@maba.org.au
-
-__Vice-President__
-Axel Kallies -
-vice.president@maba.org.au
 
 __Secretary__
 Michael Braby -
 secretary@maba.org.au
+
+__Vice-President__
+Axel Kallies -
+vice.president@maba.org.au
 
 __Treasurer__
 Tony Moore -
@@ -32,25 +34,24 @@ __Public Officer__
 Julie Morgan -
 public.officer@maba.org.au
 
-__Councillors:__
+### Councillors:
 
-Suzi Bond (media/social media officer) -
+Suzi Bond (Media/Social Media Officer) -
 media@maba.org.au
 
-Cathy Byrne (education officer) -
-education@maba.org.au
-
-Chris Sanderson (conservation officer) -
-conservation@maba.org.au
-
-Robert Hoare (New Zealand officer)
-newzealand@maba.org.au
-
-position vacant (website officer) -
+Ying Luo (Website Officer) -
 website@maba.org.au 
 
-position vacant (fundraising officer) - 
+Cathy Byrne (Education Officer) -
+education@maba.org.au
 
+Chris Sanderson (Conservation Officer) -
+conservation@maba.org.au
+
+Robert Hoare (New Zealand Officer)
+newzealand@maba.org.au
+
+Councillor (fund raising officer) - Vacant
 
 ## Patrons
 
@@ -70,10 +71,11 @@ Ted is an Honorary Fellow and former curator of Lepidoptera at the Australian Na
 
 He was made a Member of the Order of Australia for services to entomological science in 2012 and in 2015 he was the recipient of the prestigious Karl Jordan Medal, an international award presented by the Lepidopterists’ Society. His major contributions include the series of 39 chapters in the Checklist of the Lepidoptera of Australia monograph published in 1996; the Zoological Catalogue of Australia. 31.6. Lepidoptera: Hesperioidea, Papilionoidea published in 2001; the Australian Moths Online website released in 2005; and the book A Guide to Australian Moths published in 2007. Ted’s contribution comprises a legacy of original scientific knowledge and experience for both the Australian and international scientific community, as well as for dedicated amateurs.
 
-## Council members and roles
+## Council Members and roles
 
-### President: Doug Hilton
-{{< figure src="/img/office_bearers/Doug_Hilton.jpg" width=40% title="Doug Hilton"  >}}
+### <a name="Pres"></a>President: Doug Hilton
+
+{{< figure src="/img/office_bearers/Doug_Hilton.jpg" width=40% title="Doug"  >}}
 
 Doug is based in Melbourne where he is a research scientist and Director of the Walter & Eliza Hall Institute of Medical Research. He studied first at Monash University (BSc) followed by BSc Hons. and a PhD at University of Melbourne. At the end of 1984 he undertook summer vacation work at ANU and fell in love with blood cells, later working as a research student in the Walter and Eliza Hall Institute, studying the hormones that regulate blood cell production. He hasn’t worked on anything else in the last 35 years. He is fascinated by fundamental science, but also believes in the importance of translating discoveries into applications for the community that funds this research.
 
@@ -113,7 +115,7 @@ David currently works as an entomologist in the area of plant health surveillanc
 
 ### Councillor (Conservation Officer): Chris Sanderson
 
-{{< figure src="/img/office_bearers/Chris_Sanderson.jpg" width=40% title="Chris in bird surveying mode"  >}}
+{{< figure src="/img/office_bearers/Chris_Sanderson.jpg" width=40% title="Chris in butterfly suveying mode"  >}}
 
 Chris is based in Brisbane and is a reformed vertebrate ecologist who now spends most of his limited time in the field looking at butterflies. Currently working with the Queensland Government, his role is to provide habitat mapping and advice on fauna to legislators and decisionmakers within government. During his formative years, Chris was lucky to have a grandmother who was a passionate birdwatcher, a passion which appears to have rubbed off on him. This early love of birds turned into a love of butterflies, reptiles, mammals, frogs, orchids, dragonflies, and everything else that makes up the diversity of our natural world. Chris completed a dual degree in Science and Information Technology at the University of Queensland, before embarking on a career working in a diverse range of ecology related professions. He spent several years working for Birdlife Australia, particularly focusing on their citizen science activities (before people were calling it citizen science), which mostly consisted of convincing interested people to write down what birds they were seeing and send it to him. After this, he spent a long time working as an ecological consultant, where he spent most of his time writing down what animals he saw and sending that to other people. In 2012, Chris found a small orange butterfly near Darwin, which became a bigger deal than he expected, and eventually led to meeting Michael Braby and starting the Butterflies Australia project. Butterflies Australia is a citizen science project which established a nation-wide database for interested people to, you guessed it, write down what butterflies they see and send it to us! Chris is looking forwards to MABA continuing what was started with Butterflies Australia and growing the contribution of citizen science to the field of Lepidoptery. 
 
@@ -125,7 +127,7 @@ Dr Suzi Bond is an ecologist working at the Australian Bureau of Statistics, whe
 
 ### Councillor (Education Officer): Catherine Byrne
 
-{{< figure src="/img/office_bearers/Cathy_Byrne.jpg" width=40% title="Cathy Byrne"  >}}
+{{< figure src="/img/office_bearers/Cathy_Byrne.jpg" width=40% title="Cathy in Tasmania"  >}}
 
 Cathy grew up in southern Tasmania, and as a child she used to love wandering around the bush, observing and collecting insects. She recalls always wanting to be an entomologist. She finally achieved that goal some decades after, raising a family of four kids along the way, and finishing a science degree followed by a PhD where she studied the systematics of native geometrid moths supervised by Peter McQuillan. Systematics had to take a back seat while she worked with Tasmanian Department of Agriculture on a project securing market access to Japan for locally grown cherries. This job gave her access to the Department’s large and historical Tasmanian insect collection, which featured collections from such notable Australian entomologists as A.M. Lea and J.W. Evans, both who had worked in the same Department. Working with collections has now become Cathy’s job as Senior Curator of Zoology at the Tasmanian Museum and Art Gallery (TMAG) in Hobart. The curatorship position is a very diverse one, spanning collection and staff management, and public outreach and education. Curators are also expected to conduct systematic research, enabling Cathy to continue her productive and high-quality research on Australian Geometridae. Zoology at the TMAG has the very ambitious goal to have representatives every animal species in Tasmania held in the Museum collections. As part of achieving that goal the Museum conducts “Expeditions of Discovery” to remote and poorly collected areas of Tasmania almost every year. For Cathy this has resulted in finding many new lepidopteran species, faunal records and rarities, and much of Cathy’s time is now spent preparing and identifying moth specimens from this field work.  Cathy sees MABA as an association that can bring together everyone who is interested in our diverse and fascinating Lepidoptera, highlighting how important our fauna is globally, with its diversity and high level of endemicity. She hopes it will provide a platform for the sharing of knowledge on our moths and butterflies both locally and internationally.
 
@@ -140,10 +142,14 @@ Julie believes Moths and Butterflies Australasia Inc. will bring together a dive
 
 ### Councillor (New Zealand): Robert Hoare
 
-{{< figure src="/img/office_bearers/Robert_Hoare.jpg" width=40% title="Our Aotearoa councillor Robert"  >}}
+{{< figure src="/img/office_bearers/Robert_Hoare.jpg" width=40% title="Robert, our Aotearoa councillor"  >}}
 
 Robert was born in 1967 in Winchester, southern England. His father Ian is a keen amateur entomologist who made beautiful collections of butterflies and beetles; Robert first took an interest in Lepidoptera at the age of 6, when he remembers counting Tyria jacobaeae larvae on ragwort in Cornwall. After a classical education at Eton (1980-84) and Oxford (1985-89), he decided to pursue entomology more seriously, switching to biology and studying at Exeter University, where Robin Wootton was a lecturer. By this time his major focus of interest was Microlepidoptera. Attracted by realms with greater diversity and scope for discovery than post-Ice Age Britain, he moved to Australia in 1995 to pursue a PhD under Penny Gullan and Ebbe Nielsen, working on the tiny leaf-mining Nepticulidae. He took his current position in Auckland, New Zealand, at the New Zealand Arthropod Collection in 1998, after the retirement of John Dugdale, and since then has worked mainly on New Zealand Xyloryctidae and Noctuidae, but has now turned his attention to Tineoidea, especially the poorly known and bizarre Dryadaulidae. He retains a broad interest in all Lepidoptera families, though chiefly Microlepidoptera, and likes to rear through the early stages as much as possible. The strange and highly endemic New Zealand fauna is a source of constant fascination.
 
-### Councillor (website officer): Vacant
+### Councillor (Website Officer): Ying Luo
+
+{{< figure src="/img/office_bearers/Ying_Luo.jpg" width=40% title="Ying in the ANIC"  >}}
+
+Ms Ying Luo is an early career entomologist, working on her PhD on the systematics and biology of Australian Gracillariidae based at the Australian National Insect Collection and The Australian National University. Her entomological exploits have taken her far and wide, from a research assistant position in Hong Kong to a project officer with the Northern Australia Quarantine Strategy (Department of Agriculture, Water and the Environment) in Darwin. She described her first insect species at the age of 21 and since then has been looking for opportunities to describe even more. This desire led her to her current project which will involve an integrated taxonomic revision of the Australian Gracillariidae, a group of micro-lepidopterans whose larvae are leaf miners. Due to the lack of previous work in this area, she is keen to understand more about all leaf-mining Lepidoptera. Ying is passionate about the diversity of insects and diversity in science, and looks forward to being part of MABA. 
 
 ### Councillor (fund raising officer): Vacant
