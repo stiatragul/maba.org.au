@@ -6,8 +6,6 @@ tags = ["about", "what we do"]
 authors = ["admin"]
 +++
 
-# Background 
-
 Welcome to Moths and Butterflies Australasia Inc. (MABA). We are a not-for-profit organisation with charitable status that aims to encourage interest in the scientific study, research and conservation of moths and butterflies (Lepidoptera) in the Australian Region (Australasia). The society was founded in 2021 and provides a forum to unite people with similar interests in moths and butterflies across Australia, New Zealand, and adjacent islands. The society has a broad appeal to a wide range of interest groups, including amateur naturalists, photographers, conservationists and citizen scientists who are passionate about observing, collecting and studying moths and butterflies, not just professional entomologists. Thus, through community engagement we increase connectivity between various people, research institutions and non-government organizations, facilitating networks between experts and promoting collaborations.
 
 # Aims and objectives 
