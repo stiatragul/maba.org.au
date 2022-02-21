@@ -1,6 +1,6 @@
 +++
 title = "ANIC moth workshops"
-description = "Meetings"
+description = "Workshop"
 keywords = ["workshop"]
 tags = ["Meetings", "conference"]
 authors = ["admin"]
