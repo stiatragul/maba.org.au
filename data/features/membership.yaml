@@ -1,0 +1,5 @@
+weight: 2
+name: "Membership"
+icon: "fas fa-users"
+url: "./membership/membership_categories/"
+description: "Find out ways you can contribute financially to MABA"
