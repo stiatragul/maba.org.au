@@ -5,7 +5,7 @@ keywords = ["logo"]
 authors = ["admin"]
 +++
 
-{{< figure src="/img/logo_maba_full.png" width=50% title="MABA logo designed by Sharyn Wragg"  >}}
+{{< figure src="/img/android-chrome-512x512.png" width=50% title="MABA logo designed by Sharyn Wragg"  >}}
 
 The logo features the drepanid moth _Hypsidia erythropsalis_ Rothschild, 1896 a brightly coloured species endemic to the Wet Tropics of north-eastern Queensland, where it is restricted to tropical rainforest from Cooktown to Innisfail. Like many Australian Lepidoptera, the larval food plants, life cycle and biology are unknown, highlighting the knowledge gaps and opportunities for field discovery that typify so much of our vast fauna. 
 
