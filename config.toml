@@ -372,7 +372,7 @@ paginate = 10
     disabled_logo = false
     logo_text = "Moths and Butterflies Australasia"
 
-    logo = "img/logo_short copy.png"
+    logo = "img/logo_short.png"
     logo_small = "img/android-chrome-512x512.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Moths and Butterflies Australasia Inc.</strong>
