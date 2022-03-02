@@ -76,7 +76,7 @@ paginate = 10
 
 [[menu.main]]
     name       = "New members"
-    url        = "https://raw.githubusercontent.com/stiatragul/maba.org.au/master/documents/2022MABA_membership_application_form_digital.pdf"
+    url        = "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/stiatragul/maba.org.au/master/documents/2022MABA_membership_application_form_digital.pdf"
     weight     = 1
     parent     = "section.membership.form"
 
@@ -168,7 +168,7 @@ paginate = 10
     post       = 1
 
 [[menu.main]]
-    name       = "Lepidoptera Soceity"
+    name       = "Lepidopterists' Society"
     url        = "https://www.lepsoc.org/"
     weight     = 2
     parent     = "menu.resources"
@@ -377,7 +377,8 @@ paginate = 10
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Moths and Butterflies Australasia Inc.</strong>
         <br>c/o Division of Ecology and Evolution, 
-        <br>Research School of Biology, RN Robertson Building, 
+        <br>Research School of Biology, 
+        <br>RN Robertson Building, 
         <br>46 Sullivans Creek Rd
         <br>Australian National University
         <br>ACTON ACT 2601
