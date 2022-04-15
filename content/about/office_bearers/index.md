@@ -10,7 +10,7 @@ authors = ["admin"]
 ### Council Members
 
 
-[__President__](#Pres)
+__President__
 Doug Hilton -
 president@maba.org.au
 
@@ -72,8 +72,6 @@ Ted is an Honorary Fellow and former curator of Lepidoptera at the Australian Na
 He was made a Member of the Order of Australia for services to entomological science in 2012 and in 2015 he was the recipient of the prestigious Karl Jordan Medal, an international award presented by the Lepidopterists’ Society. His major contributions include the series of 39 chapters in the Checklist of the Lepidoptera of Australia monograph published in 1996; the Zoological Catalogue of Australia. 31.6. Lepidoptera: Hesperioidea, Papilionoidea published in 2001; the Australian Moths Online website released in 2005; and the book A Guide to Australian Moths published in 2007. Ted’s contribution comprises a legacy of original scientific knowledge and experience for both the Australian and international scientific community, as well as for dedicated amateurs.
 
 ## Council Members and roles
-
-### <a name="Pres"></a>President: Doug Hilton
 
 {{< figure src="/img/office_bearers/Doug_Hilton.jpg" width=40% title="Doug"  >}}
 
