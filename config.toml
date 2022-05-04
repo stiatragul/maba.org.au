@@ -1,5 +1,5 @@
 baseurl = "//maba.org.au/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
-title = "MABA"
+title = "Moths and Butterfly Australasia"
 theme = "hugo-universal-theme"
 relURL = true
 languageCode = "en-us"
@@ -312,7 +312,7 @@ paginate = 10
     author = "DevCows"
     defaultKeywords = ["devcows", "hugo", "go"]
     mainSections = ["home"]
-    defaultDescription = "MABA"
+    defaultDescription = "Moths and Butterflies Australasia"
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
@@ -458,3 +458,9 @@ paginate = 10
   category = "categories"
   tag = "tags"
   author = "authors"
+
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
