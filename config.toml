@@ -216,6 +216,20 @@ paginate = 10
     parent     = "menu.resources"
     post       = 1
 
+## ALRE
+[[menu.main]]
+    name       = "ALRE"
+    identifier = "menu.alre"
+    url        = ""
+    weight     = 6.5
+
+[[menu.main]]
+    name       = "ALRE Home"
+    url        = "/alre/home/"
+    weight     = 1
+    parent     = "menu.alre"
+    post       = 1
+
 
 ## ABOUT 
 [[menu.main]]
