@@ -230,6 +230,35 @@ paginate = 10
     parent     = "menu.alre"
     post       = 1
 
+[[menu.main]]
+    name       = "Supporting research"
+    url        = "/alre/support/"
+    identifier = "menu.alre.support"
+    weight     = 1
+    parent     = "menu.alre"
+    post       = 1
+
+[[menu.main]]
+    name       = "Donors"
+    url        = "/alre/donors"
+    weight     = 4
+    parent     = "menu.alre"
+    post       = 1
+
+[[menu.main]]
+    name       = "Donations"
+    url        = "/alre/donations"
+    weight     = 3
+    parent     = "menu.alre"
+    post       = 1
+
+[[menu.main]]
+    name       = "Grants"
+    url        = "/alre/grants"
+    weight     = 2
+    parent     = "menu.alre"
+    post       = 1
+
 
 ## ABOUT 
 [[menu.main]]
