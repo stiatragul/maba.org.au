@@ -53,3 +53,5 @@ The Australian Lepidoptera Research Endowment can be supported by:
 
 ​
 Donations to the Perpetual Foundation - Australian Lepidoptera Research Endowment are managed by Perpetual. Due to the administration of tax-deductible donations, AU$ 5000 is the minimal donation that can be accepted into the Endowment. 
+
+*Established  within the Perpetual Foundation in memory of Ebbe Nielsen and his dedication to Australian Lepidoptera and the ANIC by generous gifts from the Estates of Ebbe Nielsen and of Judith Clark. Sustained by a gift from the Hilton family.*
