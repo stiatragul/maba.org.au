@@ -5,7 +5,7 @@ keywords = ["ALRE"]
 authors = ["admin"]
 +++
 
-{{< gallery-slider dir="/img/alre/donations" auto-slide="0" width="800px" height="400px" >}}
+{{< gallery-slider dir="/img/donations" auto-slide="0" width="800px" height="400px" >}}
 
 ## HOW TO DONATE TO THE AUSTRALIAN LEPIDOPTERA ENDOWMENT
  

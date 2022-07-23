@@ -5,7 +5,7 @@ keywords = ["ALRE"]
 authors = ["admin"]
 +++
 
-{{< gallery-slider dir="/img/alre/support" auto-slide="4000" width="800px" height="400px" >}}
+{{< gallery-slider dir="/img/support" auto-slide="4000" width="800px" height="400px" >}}
 
 ## THE NEED FOR SUPPORT OF RESEARCH ON AUSTRALIAN LEPIDOPTERA
 
