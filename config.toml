@@ -18,6 +18,13 @@ paginate = 10
 
 [menu]
 
+# Archive publications
+[[params.main]]
+   name       = "Archived Publications"
+   identifier = "menu.pub.archive"
+   url        = "/archive/newsletter/"
+   weight     = 0
+
 # Main menus
 
 ## HOME
