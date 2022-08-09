@@ -16,4 +16,6 @@ Click on the newsletter to display in a new tab
 
 [Newsletter #1 March 2022](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/stiatragul/maba.org.au/master/documents/newsletter/20220301_Newsletter.pdf)
 
-[Projects]( {{< ref "/projects/index.md" >}} )
+### Archived newsletters
+
+For **Moths in Australia** and **ANIC Lepidoptera Newsletter** please visit our [Archived Newsletter page]( {{< ref "/archive/newsletter/index.md" >}} )
