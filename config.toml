@@ -224,20 +224,20 @@ paginate = 10
     post       = 1
 
 ## ALRE
-[[menu.main]]
+[[params.main]]
     name       = "ALRE"
     identifier = "menu.alre"
     url        = ""
     weight     = 6.5
 
-[[menu.main]]
+[[params.main]]
     name       = "ALRE Home"
     url        = "/alre/home/"
     weight     = 1
     parent     = "menu.alre"
     post       = 1
 
-[[menu.main]]
+[[params.main]]
     name       = "Supporting research"
     url        = "/alre/support/"
     identifier = "menu.alre.support"
@@ -245,21 +245,21 @@ paginate = 10
     parent     = "menu.alre"
     post       = 1
 
-[[menu.main]]
+[[params.main]]
     name       = "Donors"
     url        = "/alre/donors"
     weight     = 4
     parent     = "menu.alre"
     post       = 1
 
-[[menu.main]]
+[[params.main]]
     name       = "Donations"
     url        = "/alre/donations"
     weight     = 3
     parent     = "menu.alre"
     post       = 1
 
-[[menu.main]]
+[[params.main]]
     name       = "Grants"
     url        = "/alre/grants"
     weight     = 2
