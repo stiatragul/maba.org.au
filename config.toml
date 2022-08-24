@@ -28,6 +28,21 @@ paginate = 10
     weight     = 1
 
 [[menu.main]]
+    name       = "About Us"
+    identifier = "menu.about"
+    url        = "/about/aboutus/"
+    weight     = 1
+    parent     = "menu.home"
+
+
+    [[params.main]]
+    name       = "About Us"
+    identifier = "menu.home.allabout"
+    url        = "/allabout/"
+    parent     = "menu.home"
+    weight     = 1
+
+[[menu.main]]
     name       = "Contact us"
     url        = "/contact/"
     weight     = 1
@@ -261,11 +276,6 @@ paginate = 10
 
 
 ## ABOUT 
-[[menu.main]]
-    name       = "About us"
-    identifier = "menu.about"
-    url        = ""
-    weight     = 7
 
 [[menu.main]]
     name       = "Our society"
