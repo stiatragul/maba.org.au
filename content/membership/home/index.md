@@ -12,7 +12,9 @@ We aim to increase connectivity between various people, research institutions an
 
 MABA is based on a strong scientific foundation but has a broad appeal to the community and a wide range of interest groups (e.g. photographers, conservationists, citizen scientists), not just taxonomists or ecologists. High scientific standards and centres of research excellence are at the foundation of MABA upon which knowledge of the Australasian fauna is built. 
 
-The application form (PDF) for new members can be found at [this link](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/stiatragul/maba.org.au/master/documents/2022MABA_membership_application_form_digital.pdf).
+## New Members
+
+For information on how to join MABA or renew your membership, visit the (Join MABA webpage) [ {{< ref "membership/newmembers/index.md" >}}]. 
 
 ## Benefits of Membership
 

@@ -44,11 +44,11 @@ The Australian Lepidoptera Research Endowment can be supported by:
 
 The Australian Lepidoptera Research Endowment would like to acknowledge and thank those who have donated. Our donors make it possible to support promising opportunities for Lepidoptera research in Australia and curation of Lepidoptera at the ANIC. 
 
+
 A list of donors can be found on the [Our Donors]( {{< ref "alre/donors/index.md">}}) page.
 
 
-​## Why support research on Australian Lepidoptera?
- 
+## Why support research on Australian Lepidoptera?
 
 Australia has a very rich Lepidoptera fauna, estimated to number at least 30,000 species of which at best one third have been named. Our fauna also is unique with a high number of taxa not occurring anywhere else, including 5 endemic families, the last of those, the Aenigmatineidae, described in January 2015. 
 

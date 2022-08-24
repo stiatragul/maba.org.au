@@ -55,45 +55,57 @@ paginate = 10
     url        = ""
     weight     = 3
 
-[[menu.main]]
-    name       = "Membership"
-    identifier = "section.membership"
-    url        = ""
+    [[menu.main]]
+    name       = "About Membership"
+    url        = "/membership/home/"
     weight     = 1
     parent     = "menu.membership"
-    post       = 1
 
-[[menu.main]]
-    name       = "Benefits"
-    url        = "/membership/benefits/"
-    weight     = 2
-    parent     = "section.membership"
-
-[[menu.main]]
-    name       = "Membership categories"
-    url        = "/membership/membership_categories/"
-    weight     = 3
-   parent     = "section.membership"
-
-[[menu.main]]
-    name       = "Subscription fees"
-    url        = "/membership/subscription_fees/"
-    weight     = 4
-    parent     = "section.membership"
-
-[[menu.main]]
-    name       = "Membership form"
-    identifier = "section.membership.form"
-    url        = ""
+    [[menu.main]]
+    name       = "Join MABA"
+    url        = "/membership/newmembers/"
     weight     = 2
     parent     = "menu.membership"
-    post       = 2
 
-[[menu.main]]
-    name       = "New members"
-    url        = "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/stiatragul/maba.org.au/master/documents/2022MABA_membership_application_form_digital.pdf"
-    weight     = 1
-    parent     = "section.membership.form"
+#[[menu.main]]
+#    name       = "Membership"
+#    identifier = "section.membership"
+#    url        = ""
+#    weight     = 1
+#    parent     = "menu.membership"
+#    post       = 1
+#
+#[[menu.main]]
+#    name       = "Benefits"
+#    url        = "/membership/benefits/"
+#    weight     = 2
+#    parent     = "section.membership"
+#
+#[[menu.main]]
+#    name       = "Membership categories"
+#    url        = "/membership/membership_categories/"
+#    weight     = 3
+#   parent     = "section.membership"
+#
+#[[menu.main]]
+#    name       = "Subscription fees"
+#    url        = "/membership/subscription_fees/"
+#    weight     = 4
+#    parent     = "section.membership"
+#
+#[[menu.main]]
+#    name       = "Membership form"
+#    identifier = "section.membership.form"
+#    url        = ""
+#    weight     = 2
+#    parent     = "menu.membership"
+#    post       = 2
+#
+#[[menu.main]]
+#    name       = "New members"
+#    url        = "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/stiatragul/maba.org.au/master/documents/2022MABA_membership_application_form_digital.pdf"
+#    weight     = 1
+#    parent     = "section.membership.form"
 
 #[[menu.main]]
 #    name       = "Member renewal"
@@ -183,10 +195,17 @@ paginate = 10
     url        = ""
     weight     = 5
 
-[[menu.main]]
-    name       = "Newsletter"
-    url        = "/publications/"
+    [[menu.main]]
+    name       = "MABA Newsletter"
+    url        = "/publications/newsletters"
     weight     = 1
+    parent     = "menu.publications"
+    post       = 1
+
+    [[menu.main]]
+    name       = "Other Publications"
+    url        = "/publications/archived"
+    weight     = 2
     parent     = "menu.publications"
     post       = 1
 
