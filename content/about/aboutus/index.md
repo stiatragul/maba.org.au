@@ -23,14 +23,16 @@ To promote and support the conservation of moths and butterflies and their habit
 
 To lobby for improved funding and training for research on moths and butterflies.
 
-
-## Constitution
-
 ## Office bearers
 
-MABA has a dedicated committee of council members. More about the council members and who they are can be found on the [Office Bearers]( {{< ref "/about/office_bearers/index.md">}} ) webpage. 
+MABA has a dedicated committee of council members. 
 
-## Logo
+More about the council members and who they are can be found on the [Office Bearers]( {{< ref "/about/office_bearers/index.md">}} ) webpage. 
+
+### Constitution
+
+
+### Logo
 {{< figure src="/img/android-chrome-512x512.png" width=50% title="MABA logo designed by Sharyn Wragg"  >}}
 
 The logo features the drepanid moth _Hypsidia erythropsalis_ Rothschild, 1896 a brightly coloured species endemic to the Wet Tropics of north-eastern Queensland, where it is restricted to tropical rainforest from Cooktown to Innisfail. Like many Australian Lepidoptera, the larval food plants, life cycle and biology are unknown, highlighting the knowledge gaps and opportunities for field discovery that typify so much of our vast fauna. 
