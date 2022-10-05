@@ -14,7 +14,7 @@ MABA is based on a strong scientific foundation but has a broad appeal to the co
 
 ## New Members
 
-For information on how to join MABA or renew your membership, visit the (Join MABA webpage) [ {{< ref "membership/newmembers/index.md" >}}]. 
+For information on how to join MABA or renew your membership, visit the [Join MABA webpage]( {{< ref "membership/newmembers/index.md" >}}). 
 
 ## Benefits of Membership
 
