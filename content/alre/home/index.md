@@ -5,7 +5,8 @@ keywords = ["ALRE"]
 authors = ["admin"]
 +++
 
-{{< gallery-slider dir="/img/alre/" auto-slide="4000" width="800px" height="400px" >}}
+<!-- {{< gallery-slider dir="/img/alre/" auto-slide="4000" width="800px" height="400px" >}} -->
+{{< figure src="/img/alre/SYNEMON  magnifica Strand, 1911 Blackheath NSW F.jpg" width=70% title=""  >}}
 
 # AUSTRALIAN LEPIDOPTERA RESEARCH ENDOWMENT
 
