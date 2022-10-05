@@ -6,7 +6,7 @@ tags = ["test"]
 authors = ["admin"]
 +++
 
-## Archived Affliated Newsletters
+## Archived Affiliated Newsletters
 
 On this page are archived lepidoptera newsletters. These newsletters were not produced by MABA, but were written as part of other series and are now archived here at the request of the authors.
 
