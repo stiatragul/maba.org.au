@@ -133,7 +133,7 @@ paginate = 10
     name       = "Butterflies Australia"
     url        = "https://www.butterflies.org.au/external/home"
     weight     = 2
-    parent     = "section.MABA.projects"
+ #   parent     = "section.MABA.projects"
 
 ## EVENTS
 [[menu.main]]
