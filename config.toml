@@ -232,13 +232,26 @@ paginate = 10
         post       = 1
 
     [[menu.main]]
-        name       = "The caterpillar key"
-        url        = "https://keys.lucidcentral.org/keys/v3/the-caterpillar-key/"
+        name       = "Australian Caterpillars and their Butterflies and Moths"
+        url        = "http://lepidoptera.butterflyhouse.com.au/faqs/ident.html"
         weight     = 2
         parent     = "section.id"
 
+    [[menu.main]]
+        name       = "The caterpillar key"
+        url        = "https://keys.lucidcentral.org/keys/v3/the-caterpillar-key/"
+        weight     = 3
+        parent     = "section.id"
+
+    [[menu.main]]
+        name       = "Larger Moths of New Zealand"
+        url        = "https://www.nzbutterflies.org.nz/"
+        weight     = 4
+        parent     = "section.id"
+
+
 [[menu.main]]
-    name       = "Member Societies"
+    name       = "Lepidoptera Societies"
     identifier = "section.memsoc"
     url        = ""
     weight     = 2
@@ -271,121 +284,12 @@ paginate = 10
         parent     = "section.memsoc"
         post       = 1
 
-
-
-
+# GRANTS
 [[menu.main]]
     name       = "Grants"
     identifier = "section.grants"
-    url        = ""
+    url        = "/grants/"
     weight     = 3
-    parent     = "menu.resources"
-    post       = 3
-
-    [[menu.main]]
-    name       = "Australian Lepidoptera Research Endowment"
-    url        = "/alre/home/"
-    weight     = 2
-    parent     = "section.grants"
-
-#[[menu.main]]
-#    name       = "Australian Moths Online"
-#    url        = "https://moths.csiro.au/"
-#    weight     = 1
-#    parent     = "menu.resources"
-#    post       = 1
-#
-#[[menu.main]]
-#    name       = "Lepidopterists' Society"
-#    url        = "https://www.lepsoc.org/"
-#    weight     = 2
-#    parent     = "menu.resources"
-#    post       = 1
-#
-#[[menu.main]]
-#    name       = "The caterpillar key"
-#    url        = "https://keys.lucidcentral.org/keys/v3/the-caterpillar-key/"
-#    weight     = 3
-#    parent     = "menu.resources"
-#    post       = 1
-#
-#[[menu.main]]
-#    name       = "Australian Lepidoptera Research Endowment"
-#    url        = "https://www.australianlepidopteraendowment.com/"
-#    weight     = 5
-#    parent     = "menu.resources"
-#    post       = 1
-#
-#[[menu.main]]
-#    name       = "National Moth Week"
-#    url        = "https://nationalmothweek.org/"
-#    weight     = 6
-#    parent     = "menu.resources"
-#    post       = 1
-#
-#[[menu.main]]
-#    name       = "Moths and Butterflies of New Zealand Trust"
-#    url        = "https://www.nzbutterflies.org.nz/"
-#    weight     = 7
-#    parent     = "menu.resources"
-#    post       = 1
-#
-#[[menu.main]]
-#    name       = "Butterfly and Other Invertebrates Club"
-#    url        = "http://www.boic.org.au/"
-#    weight     = 8
-#    parent     = "menu.resources"
-#    post       = 1
-#
-#[[menu.main]]
-#    name       = "Butterflies Conservation South Australia"
-#    url        = "https://butterflyconservationsa.net.au/ "
-#    weight     = 9
-#    parent     = "menu.resources"
-#    post       = 1
-#
-## ALRE
-#[[menu.main]]
-#    name       = "ALRE"
-#    identifier = "menu.alre"
-#    url        = ""
-#    weight     = 6.5
-#
-#[[menu.main]]
-#    name       = "ALRE Home"
-#    url        = "/alre/home/"
-#    weight     = 1
-#    parent     = "menu.alre"
-#    post       = 1
-#
-#[[menu.main]]
-#    name       = "Supporting research"
-#    url        = "/alre/support/"
-#    identifier = "menu.alre.support"
-#    weight     = 1
-#    parent     = "menu.alre"
-#    post       = 1
-#
-#[[menu.main]]
-#    name       = "Donors"
-#    url        = "/alre/donors"
-#    weight     = 4
-#    parent     = "menu.alre"
-#    post       = 1
-#
-#[[menu.main]]
-#    name       = "Donations"
-#    url        = "/alre/donations"
-#    weight     = 3
-#    parent     = "menu.alre"
-#    post       = 1
-#
-#[[menu.main]]
-#    name       = "Grants"
-#    url        = "/alre/grants"
-#    weight     = 2
-#    parent     = "menu.alre"
-#    post       = 1
 
 
 ## ABOUT 
