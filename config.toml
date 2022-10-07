@@ -66,6 +66,12 @@ paginate = 10
     url        = "/membership/newmembers/"
     weight     = 2
     parent     = "menu.membership"
+    
+    [[menu.main]]
+    name       = "Donate to MABA"
+    url        = "/membership/member_donations/"
+    weight     = 3
+    parent     = "menu.membership"
 
 #[[menu.main]]
 #    name       = "Membership"
@@ -113,12 +119,66 @@ paginate = 10
 #    weight     = 2
 #    parent     = "section.membership.form"
 
+## GRANTS
+
+[[menu.main]]
+    name       = "grants"
+    identifier = "menu.grants"
+    url        = ""
+    weight     = 3
+    
+[[menu.main]]
+    name       = "Grant Information"
+    identifier = "section.grantinformation"
+    url        = ""
+    weight     = 1
+    parent     = "menu.grants"
+    post       = 1
+
+
+[[menu.main]]
+    name       = "About MABA Grants"
+    url        = "/grants/aboutgrants/"
+    weight     = 1
+    parent     = "section.grantinformation"
+    post       = 1
+
+[[menu.main]]
+    name       = "Donate to Grants"
+    url        = "/grants/donate/"
+    weight     = 2
+    parent     = "section.grantinformation"
+    post       = 1
+
+
+
+[[menu.main]]
+    name       = "Available Grants"
+    identifier = "section.availablegrants"
+    url        = ""
+    weight     = 2
+    parent     = "menu.grants"
+     post       = 2
+
+    [[menu.main]]
+    name       = "Australian Lepidoptera Research Endowment"
+    url        = "/alre/home/"
+    weight     = 2
+    parent     = "section.availablegrants"
+
+    [[menu.main]]
+    name       = "MABA Biodiversity Fund"
+    url        = "/grants/available_grants/biodiversity_fund/"
+    weight     = 2
+    parent     = "section.availablegrants"
+
+
 ## PROJECTS
 [[menu.main]]
     name       = "Projects"
     identifier = "menu.projects"
     url        = ""
-    weight     = 3
+    weight     = 4
 
     [[menu.main]]
     name       = "Affliated Projects"
@@ -237,8 +297,20 @@ paginate = 10
         weight     = 2
         parent     = "section.id"
 
+        [[menu.main]]
+        name       = "Larger Moths of New Zealand"
+        url        = "https://oldwww.landcareresearch.co.nz/resources/identification/animals/large-moths/image-gallery"
+        weight     = 2
+        parent     = "section.id"
+    
+         [[menu.main]]
+        name       = "Australian Caterpillars and their Butterflies and Moths"
+        url        = "http://lepidoptera.butterflyhouse.com.au/faqs/ident.html"
+        weight     = 2
+        parent     = "section.id"
+
 [[menu.main]]
-    name       = "Member Societies"
+    name       = "Lepidoptera Societies"
     identifier = "section.memsoc"
     url        = ""
     weight     = 2
@@ -271,22 +343,6 @@ paginate = 10
         parent     = "section.memsoc"
         post       = 1
 
-
-
-
-[[menu.main]]
-    name       = "Grants"
-    identifier = "section.grants"
-    url        = ""
-    weight     = 3
-    parent     = "menu.resources"
-    post       = 3
-
-    [[menu.main]]
-    name       = "Australian Lepidoptera Research Endowment"
-    url        = "/alre/home/"
-    weight     = 2
-    parent     = "section.grants"
 
 #[[menu.main]]
 #    name       = "Australian Moths Online"
