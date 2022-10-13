@@ -6,7 +6,9 @@ tags = ["test"]
 authors = ["admin"]
 +++
 
-## Archived Affliated Newsletters
+On this page are archived two lepidoptera newsletters: _Moths in Australia Newsletter_ of which five issues were produced between 2005 and 2007 coordinated by Ted Martin, and *ANIC Lepidoptera Newsletter* of which seven were produced between 2015 and 2021 coordinated by Marianne Horak. These newsletters arose from the moth workshops ran by The Australian National Insect Collection (ANIC) Lepidoptera Unit. The workshops were held at ANIC in Canberra every two years, and a total of 10 meetings were held from 2003–2022. The newsletters contain a vast amount of history, information and contributions on Australian Lepidoptera; however, because they are not widely available, we have made them accessible on our website for you to enjoy.
+
+## Archived Affiliated Newsletters
 
 The Australian National Insect Collection (ANIC) Lepidoptera Unit ran a series of informal workshops on moths from 2003–2022. 
 
