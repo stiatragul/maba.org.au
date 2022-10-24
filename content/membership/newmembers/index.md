@@ -1,5 +1,5 @@
 +++
-title = "New Membership"
+title = "Joining MABA"
 description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
@@ -16,7 +16,7 @@ The application form (PDF) for new members can be found at [this link](https://d
 
 ## Membership Fees
 
-There are currently no membership fees for 2022. However, fees will be introduced in 2024
+There are currently no membership fees for 2022. However, fees will be introduced in 2024.
 
 ## Membership Categories
 

@@ -5,5 +5,5 @@ keywords = ["fees"]
 authors = ["admin"]
 +++
 
-There are currently no subscription fees for 2022. However, fees will be introduced in 2023.
+There are currently no subscription fees for 2022. However, fees will be introduced in 2024.
 

@@ -34,7 +34,15 @@ MABA aims to identify knowledge gaps for further research, such as poorly known 
 
 #### Environment
 
-MABA aims to create a safe environment that: (1) encourages more young people (the next generation) to become interested in and stimulated by moths and butterflies, recognising that we have an ageing (and declining) population of experts; (2) mentors the next generation, with the expectation that some of these people will go on to become expert taxonomists or field ecologists (possibly even professional Lepidopterists); (3) provides older generation Lepidopterists exposure to new approaches and technologies, and new modes of communication; and (4) embraces and promotes diversity.
+MABA aims to create a safe environment that: 
+
+(1) encourages more young people (the next generation) to become interested in and stimulated by moths and butterflies, recognising that we have an ageing (and declining) population of experts; 
+
+(2) mentors the next generation, with the expectation that some of these people will go on to become expert taxonomists or field ecologists (possibly even professional Lepidopterists); 
+
+(3) provides older generation Lepidopterists exposure to new approaches and technologies, and new modes of communication; and 
+
+(4) embraces and promotes diversity.
 
 ## Membership Categories
 
