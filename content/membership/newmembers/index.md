@@ -7,16 +7,19 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 ## New Membership
 
-To join as a new member, fill out the New Members form (link below). 
+There are two methods to sign up as a new member to MABA. Either is fine, but please only use one.
 
-Rename your file as "Your_Name_Membership_Application.pdf" and email it to __secretary@maba.org.au__.
+### Join Online via JotForm
 
-The application form (PDF) for new members can be found at [this link](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/stiatragul/maba.org.au/master/documents/2022MABA_membership_application_form_digital.pdf).
+To join as a new member, please visit this our **[online application form ](https://form.jotform.com/222487646525868)**. 
 
 
-## Membership Fees
+### Join by filling out this PDF and emailing it to us
+Alternatively, fill out the New Members form. 
 
-There are currently no membership fees for 2022. However, fees will be introduced in 2024.
+Rename your file as "Your_Name_Membership_Application.pdf" and email it to **secretary@maba.org.au**.
+
+The application form (PDF) for new members can be found at **[this link](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/stiatragul/maba.org.au/master/documents/2022MABA_membership_application_form_digital.pdf)**.
 
 ## Membership Categories
 
@@ -33,6 +36,11 @@ Honorary life members are those persons, duly elected by the society, who have r
 Member Bodies are defined as being any trust, association, institution, organization, department or instrumentality of government, local government authority educational organization or other body which in the opinion of the Council will support the aims and objectives of the society.
 
 
-## Renewing your Membership
+# Renewing your Membership
 
 Under construction.
+
+
+## Membership Fees
+
+There are currently no membership fees for 2022. However, fees will be introduced in 2024.
