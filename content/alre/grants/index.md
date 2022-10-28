@@ -30,7 +30,7 @@ The endowment supports endeavors in the following areas of interest:
 
 A list of all past successful grants are on the [Past Awarded Grants]( {{< ref "alre/pastgrants/index.md" >}}) page. 
 
-## Call for Grant Applications 2022
+## Call for Grant Applications 2022-2023
 
 We are pleased to announce grants of up to $4500 from the Perpetual Foundation - Australian Lepidoptera Research Endowment (ALRE) for the financial year July 2022 to 2023, and we are inviting applications.​
 
