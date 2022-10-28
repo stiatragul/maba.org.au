@@ -181,7 +181,7 @@ paginate = 10
     weight     = 4
 
     [[menu.main]]
-    name       = "Affliated Projects"
+    name       = "MABA Projects"
     identifier = "section.MABA.projects"
     url        = ""
     weight     = 1
@@ -191,8 +191,8 @@ paginate = 10
 
 [[menu.main]]
     name       = "Butterflies Australia"
-    url        = "https://www.butterflies.org.au/external/home"
-    weight     = 2
+    url        = "/projects/MABA_Projects/butterflies_australia/"
+    weight     = 1
     parent     = "section.MABA.projects"
 
 ## EVENTS
