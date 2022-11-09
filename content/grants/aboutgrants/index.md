@@ -1,11 +1,11 @@
 +++
-title = "About MABA Grants"
+title = "Grant Information"
 description = "maba grants"
 keywords = ["FAQ","How do I","questions","what if"]
 authors = ["admin"]
 +++
 
-### About MABA Grants
+## About MABA Grants
 
 MABA provides grants to support two key areas in Lepidoptera research: 
 
