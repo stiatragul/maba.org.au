@@ -1,10 +1,10 @@
 +++
-title = "About Butterflies Australia"
+title = "MABA Projects"
 description = "Butterflies-Australia"
 authors = ["admin"]
 +++
 
-# About Butterflies Australia
+# Butterflies Australia
 The [Butterflies Australia database](https://www.butterflies.org.au/external/home) is a citizen science initiative where members of the public can use our app or website to record butterfly sightings in the field and send them to us to contribute to butterfly conservation and research. All our sightings records are freely available either on our website when you log in with an account , or via the Atlas of Living Australia (www.ala.org.au). The database is curated by a panel of experts from around the country, and it is even possible to submit a photograph of an unknown species for our experts to assist with identification.
 
 Visit the [Butterflies Australia database](https://www.butterflies.org.au/external/home). 

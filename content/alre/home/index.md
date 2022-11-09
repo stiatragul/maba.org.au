@@ -1,19 +1,19 @@
 +++
-title = "ALRE Home"
+title = "Available Grants"
 description = "Australian Lepidoptera Society Home"
 keywords = ["ALRE"]
 authors = ["admin"]
 +++
 
+
+## AUSTRALIAN LEPIDOPTERA RESEARCH ENDOWMENT
+
 <!-- {{< gallery-slider dir="/img/alre/" auto-slide="4000" width="800px" height="400px" >}} -->
 {{< figure src="/img/alre/SYNEMON  magnifica Strand, 1911 Blackheath NSW F.jpg" width=70% title=""  >}}
 
-# AUSTRALIAN LEPIDOPTERA RESEARCH ENDOWMENT
-
-
 The Australian Lepidoptera Research Endowment, established by Drs Marianne Horak and Douglas Hilton within the [Perpetual Foundation](https://www.perpetual.com.au/), wishes to support taxonomic and phylogenetic research on Australian moths and butterflies by professional and amateur entomologists, and to enhance the curation of the Lepidoptera collection at the [Australian National Insect Collection (ANIC)](https://www.csiro.au/en/about/facilities-collections/collections/anic). 
  
-## The need for support of research on Australian Lepidoptera 
+### The need for support of research on Australian Lepidoptera 
 
 Moths and butterflies are an iconic part of Australia’s landscape.  For many of us they represent one of our first memories of the beauty of nature. They play a crucial role in our diverse ecosystems, acting as obligate pollinators for iconic plant species like Boronia and as essential components of our eucalypt forests.  They are sentinels to the health of our environment and are important indicator species in conservation efforts. As introduced and endemic pests they have the potential to profoundly affect our agricultural sector and our economy.
 

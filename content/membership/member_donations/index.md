@@ -1,10 +1,10 @@
 +++
-title = "Donating to MABA"
+title = "Membership"
 description = "donating"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-# Donating to MABA
+# Making a donation to MABA
 
 
 ### Site under construction

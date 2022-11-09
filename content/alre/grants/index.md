@@ -1,5 +1,5 @@
 +++
-title = "ALRE Grants"
+title = "AUSTRALIAN LEPIDOPTERA RESEARCH ENDOWMENT "
 description = "Australian Lepidoptera Society Home"
 keywords = ["ALRE"]
 authors = ["admin"]

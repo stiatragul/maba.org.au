@@ -66,11 +66,17 @@ paginate = 10
     url        = "/membership/newmembers/"
     weight     = 2
     parent     = "menu.membership"
-    
+
+    [[menu.main]]
+    name       = "Membership categories"
+    url        = "/membership/membership_categories/"
+    weight     = 3
+    parent     = "menu.membership"
+
     [[menu.main]]
     name       = "Donate to MABA"
     url        = "/membership/member_donations/"
-    weight     = 3
+    weight     = 4
     parent     = "menu.membership"
 
 #[[menu.main]]
@@ -87,12 +93,7 @@ paginate = 10
 #    weight     = 2
 #    parent     = "section.membership"
 #
-#[[menu.main]]
-#    name       = "Membership categories"
-#    url        = "/membership/membership_categories/"
-#    weight     = 3
-#   parent     = "section.membership"
-#
+
 #[[menu.main]]
 #    name       = "Subscription fees"
 #    url        = "/membership/subscription_fees/"
@@ -143,12 +144,12 @@ paginate = 10
     parent     = "section.grantinformation"
     post       = 1
 
-[[menu.main]]
-    name       = "Donate to Grants"
-    url        = "/grants/donate/"
-    weight     = 2
-    parent     = "section.grantinformation"
-    post       = 1
+#[[menu.main]]
+#   name       = "Donate to Grants"
+#    url        = "/grants/donate/"
+#    weight     = 2
+#    parent     = "section.grantinformation"
+#    post       = 1
 
 
 
@@ -256,7 +257,7 @@ paginate = 10
     weight     = 5
 
     [[menu.main]]
-    name       = "MABA Newsletter"
+    name       = "MABA Publications"
     url        = "/publications/newsletters"
     weight     = 1
     parent     = "menu.publications"
@@ -337,11 +338,12 @@ paginate = 10
         post       = 1
 
     [[menu.main]]
-        name       = "Butterflies Conservation South Australia"
+        name       = "Butterfly Conservation South Australia"
         url        = "https://butterflyconservationsa.net.au/ "
         weight     = 3
         parent     = "section.memsoc"
         post       = 1
+
 
 
 #[[menu.main]]

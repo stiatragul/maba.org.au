@@ -1,5 +1,5 @@
 +++
-title = "The MABA Biodiversity Fund"
+title = "Available Grants"
 description = "maba biodiversity fund"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
