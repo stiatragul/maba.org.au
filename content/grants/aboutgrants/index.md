@@ -9,9 +9,8 @@ authors = ["admin"]
 
 MABA provides grants to support two key areas in Lepidoptera research: 
 
-(1) biosystematics, and 
-
-(2) biodiversity conservation. 
+1.  biosystematics, and 
+1. biodiversity conservation. 
 
 MABA offers two main grants:
 
