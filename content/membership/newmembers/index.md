@@ -18,7 +18,8 @@ To join online, you can fill out your details digitally on this **[online applic
 
 Alternatively, you can fill out this PDF which you can email to our secretary. 
 
-The application form (PDF) for new members can be found at **[this link](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/stiatragul/maba.org.au/master/documents/2022MABA_membership_application_form_digital.pdf)**.
+The application form (PDF) for new members can be found at **[this link](https://storage.googleapis.com/maba.org.au/2022_nov_MABA_membership_application_form.pdf)** or use this [alternative link](https://drive.google.com/file/d/1-GnEsljNRKVmarcG6a9n_1YxnhhhQKEl/view?usp=share_link).
+
 
 Rename your file as "Your_Name_Membership_Application.pdf" and email it to **secretary@maba.org.au**.
 
