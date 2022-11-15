@@ -312,9 +312,9 @@ paginate = 10
 
 [[menu.main]]
     name       = "Lepidoptera Societies"
-    identifier = "section.memsoc"
+    identifier = "section.lepsoc"
     url        = ""
-    weight     = 2
+    weight     = 3
     parent     = "menu.resources"
     post       = 2
 
@@ -322,29 +322,37 @@ paginate = 10
         name       = "Lepidopterists' Society"
         url        = "https://www.lepsoc.org/"
         weight     = 2
-        parent     = "section.memsoc"
+        parent     = "section.lepsoc"
         post       = 1
-    [[menu.main]]
-        name       = "Moths and Butterflies of New Zealand Trust"
-        url        = "https://www.nzbutterflies.org.nz/"
-        weight     = 1
-        parent     = "section.memsoc"
-        post       = 1
+    
     [[menu.main]]
         name       = "Butterfly and Other Invertebrates Club"
         url        = "http://www.boic.org.au/"
         weight     = 4
-        parent     = "section.memsoc"
+        parent     = "section.lepsoc"
         post       = 1
 
+[[menu.main]]
+    name       = "MABA Member Bodies"
+    identifier = "section.membo"
+    url        = ""
+    weight     = 1
+    parent     = "menu.resources"
+    post       = 3
+
+    [[menu.main]]
+        name       = "Moths and Butterflies of New Zealand Trust"
+        url        = "https://www.nzbutterflies.org.nz/"
+        weight     = 1
+        parent     = "section.membo"
+        post       = 1
+    
     [[menu.main]]
         name       = "Butterfly Conservation South Australia"
         url        = "https://butterflyconservationsa.net.au/ "
-        weight     = 3
-        parent     = "section.memsoc"
+        weight     = 2
+        parent     = "section.membo"
         post       = 1
-
-
 
 #[[menu.main]]
 #    name       = "Australian Moths Online"

@@ -4,6 +4,8 @@ description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
+## Membership Categories
+
 ### Ordinary Members
 Ordinary members are persons over the age of 18 years paying an annual subscription to the society.
 
