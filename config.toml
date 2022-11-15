@@ -604,8 +604,8 @@ paginate = 10
     disabled_logo = false
     logo_text = "Moths and Butterflies Australasia"
 
-    logo = "img/logo/maba_logo_w_black.png"
-    logo_small = "img/logo/maba_logo_w_black.png"
+    logo = "img/logo/maba_w_text.png"
+    logo_small = "img/logo/MABA-Logo-Circle-Colour-transparent-inner-BLACK_TEXT.png"
     
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Moths and Butterflies Australasia Inc.</strong>
