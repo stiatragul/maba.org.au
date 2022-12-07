@@ -10,13 +10,14 @@ The benefits of joining MABA are several fold.
 MABA provides a forum to unite people with similar interests in moths and butterflies at a national and international level. Within Australia, much of the current expertise (and the major national collection) is geographically centred in Canberra; thus, there is a critical need for broader linkages of expertise across the country and beyond. We aim to increase connectivity between various people, research institutions and non-government organizations, facilitating networks between experts, promoting collaborations and avoiding duplication of work. MABA also aims to provide better coordination nationally and regionally by bringing together some of the smaller, local interest groups (e.g. BCSA, BOIC, MBNZT). MABA is based on a strong scientific foundation but has a broad appeal to the community and a wide range of interest groups (e.g. photographers, conservationists, citizen scientists), not just taxonomists or ecologists. High scientific standards and centres of research excellence are at the foundation of MABA upon which knowledge of the Australasian fauna is built. 
 
 #### Publications
-MABA provides a forum for publishing natural history observations and discoveries (e.g. life histories, linking caterpillars to adults, behaviour). Such publications currently take the form of an electronic newsletter, with links to Facebook, Instagram, and Twitter. 
+MABA provides a forum for publishing natural history observations and discoveries (e.g. life histories, linking caterpillars to adults, behaviour).  
 
 #### Education
 MABA has an important role in education by assisting the general public, industry, government and other stakeholders with species level identifications (e.g. from images) or providing information on species. The development of tools for identification of images on the internet (e.g. of live adults and larvae) is seen as an important resource and an adjunct to the Moths On-Line. 
 
-#### Biodiversity Fund
-MABA intends to establish and maintain a public fund – the MABA Biodiversity Fund – for the specific purpose of supporting the society’s environmental objectives on biodiversity conservation. 
+#### Grants
+MABA provides grants to support biosystematics through The Australian Lepidoptera Research Endowment, and biodiversity conservation through The MABA Biodiversity Fund.
+
 
 #### Research and Advocacy
 
