@@ -9,14 +9,14 @@ authors = ["admin"]
 
 MABA provides grants to support two key areas in Lepidoptera research: 
 
-1.  biosystematics, and 
-1. biodiversity conservation. 
+1. Biosystematics, and 
+2. Biodiversity conservation. 
 
 MABA offers two main grants:
 
 **The Australian Lepidoptera Research Endowment**
 
-The [Australian Lepidoptera Research Endowment]( {{< ref "alre/home/index.md" >}}), established by Marianne Horak and Douglas Hilton within the Perpetual Foundation, supports taxonomic and phylogenetic research on Australian moths and butterflies by professional and amateur entomologists and to enhance the curation of the Lepidoptera collection at the Australian National Insect Collection (ANIC). 
+The [Australian Lepidoptera Research Endowment]( {{< ref "alre/home/index.md" >}}), established by Marianne Horak and Douglas Hilton within the Perpetual Foundation, supports __taxonomic and phylogenetic research__ on Australian moths and butterflies by professional and amateur entomologists and to enhance the curation of the Lepidoptera collection at the Australian National Insect Collection (ANIC). 
 
 **The MABA Biodiversity Fund**
 

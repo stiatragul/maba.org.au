@@ -20,13 +20,15 @@ For information on how to join MABA or renew your membership, visit the [Join MA
 ## Benefits of Membership
 
 #### Publications
-MABA provides a forum for publishing natural history observations and discoveries (e.g. life histories, linking caterpillars to adults, behaviour). Such publications currently take the form of an electronic newsletter, with links to Facebook, Instagram, and Twitter. 
+MABA provides a forum for publishing natural history observations and discoveries (e.g. life histories, linking caterpillars to adults, behaviour). Such publications currently take the form of an electronic newsletter, with links to Facebook. 
 
 #### Education
 MABA has an important role in education by assisting the general public, industry, government and other stakeholders with species level identifications (e.g. from images) or providing information on species. The development of tools for identification of images on the internet (e.g. of live adults and larvae) is seen as an important resource and an adjunct to the Moths On-Line. 
 
-#### Biodiversity Fund
-MABA intends to establish and maintain a public fund – the MABA Biodiversity Fund – for the specific purpose of supporting the society’s environmental objectives on biodiversity conservation. 
+#### Grants
+MABA provides grants to support biosystematics through The Australian Lepidoptera Research Endowment and biodiversity conservation through the MABA Biodiversity Fund. 
+
+More information on available grants can be located found on the [About Grants]( {{< ref "grants/aboutgrants/index.md" >}}) page.  
 
 #### Research and Advocacy
 
