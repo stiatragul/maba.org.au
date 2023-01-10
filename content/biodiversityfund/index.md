@@ -9,7 +9,7 @@ authors = ["admin"]
 
 This grant is expected to be open in 2024 pending approval by the Register of Environmental Organisations.  
 
-Site is under construction.
+Contact us if you'd like to learn more about the MABA Biodiversity Fund. 
 
 
 
