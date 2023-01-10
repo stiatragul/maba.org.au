@@ -28,7 +28,7 @@ MABA has an important role in education by assisting the general public, industr
 #### Grants
 MABA provides grants to support biosystematics through The Australian Lepidoptera Research Endowment and biodiversity conservation through the MABA Biodiversity Fund. 
 
-More information on available grants can be located found on the [About Grants]( {{< ref "grants/aboutgrants/index.md" >}}) page.  
+More information on available grants can be located found on the [About MABA Grants]( {{< ref "grants/aboutgrants/index.md" >}}) page.  
 
 #### Research and Advocacy
 

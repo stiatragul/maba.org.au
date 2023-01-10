@@ -76,14 +76,14 @@ paginate = 10
     [[menu.main]]
     name       = "Donate to MABA"
     url        = "/membership/member_donations/"
-    weight     = 4
+    weight     = 5
     parent     = "menu.membership"
 
     [[menu.main]]
     name       = "Code of conduct"
     # identifier = "section.ap-home"
     url        = "/mebership/code_of_conduct/"
-    weight     = 5
+    weight     = 4
     parent     = "menu.membership"
 
 
