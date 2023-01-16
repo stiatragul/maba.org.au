@@ -298,17 +298,25 @@ paginate = 10
         url        = "https://keys.lucidcentral.org/keys/v3/the-caterpillar-key/"
         weight     = 2
         parent     = "section.id"
+    
+    
+    [[menu.main]]
+        name       = "Australian Faunal Directory (Lepidoptera)"
+        url        = "https://biodiversity.org.au/afd/taxa/LEPIDOPTERA"
+        weight     = 3
+        parent     = "section.id"
+
 
         [[menu.main]]
         name       = "Larger Moths of New Zealand"
         url        = "https://oldwww.landcareresearch.co.nz/resources/identification/animals/large-moths/image-gallery"
-        weight     = 2
+        weight     = 5
         parent     = "section.id"
     
          [[menu.main]]
         name       = "Australian Caterpillars and their Butterflies and Moths"
         url        = "http://lepidoptera.butterflyhouse.com.au/faqs/ident.html"
-        weight     = 2
+        weight     = 4
         parent     = "section.id"
 
 [[menu.main]]
