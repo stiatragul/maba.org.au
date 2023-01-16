@@ -30,12 +30,11 @@ For more information on the grants (including application process, past grants a
 
 #### Scientific Advisory Committee 
  
-The Australian Lepidoptera Research Endowment is overseen by a scientific advisory committee of initially three people. The Advisory Committee will be responsible for selecting a chairperson and recruiting new members as required. It will make all decisions on which research or curatorial activities will be supported and give distribution recommendations from the Endowment to the trustee, Perpetual. The Advisory Committee will take into consideration individual donor wishes when making funding recommendations. 
+The Australian Lepidoptera Research Endowment is overseen by a scientific advisory committee of initially three people. The Advisory Committee will be responsible for selecting a chairperson and recruiting new members as required. It will make all decisions on which research or curatorial activities will be supported and give distribution recommendations from the Endowment to the trustee, Perpetual. The Advisory Committee will take into consideration individual donor wishes when making funding recommendations. See the [ALRE Scientific Advisory Committee]( {{< ref "alre/sci_advisory_comm/index.md" >}})
  
 ## Donations
 
 The Australian Lepidoptera Research Endowment can be supported by:
- 
 
 * Individual donations  
 * Annual contributions
