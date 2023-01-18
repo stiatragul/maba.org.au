@@ -82,7 +82,7 @@ paginate = 10
     [[menu.main]]
     name       = "Code of conduct"
     # identifier = "section.ap-home"
-    url        = "/mebership/code_of_conduct/"
+    url        = "/membership/code_of_conduct/"
     weight     = 4
     parent     = "menu.membership"
 
