@@ -82,7 +82,7 @@ paginate = 10
     [[menu.main]]
     name       = "Code of conduct"
     # identifier = "section.ap-home"
-    url        = "/mebership/code_of_conduct/"
+    url        = "/membership/code_of_conduct/"
     weight     = 4
     parent     = "menu.membership"
 
@@ -294,7 +294,7 @@ paginate = 10
         post       = 1
 
     [[menu.main]]
-        name       = "The caterpillar key"
+        name       = "The Caterpillar Key"
         url        = "https://keys.lucidcentral.org/keys/v3/the-caterpillar-key/"
         weight     = 2
         parent     = "section.id"
