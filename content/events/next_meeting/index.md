@@ -7,4 +7,4 @@ authors = ["admin"]
 +++
 # Event
 
-## The next meeting will be announced here
+The next meeting will be held in 2023. Stay tuned for more information. 

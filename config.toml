@@ -211,38 +211,20 @@ paginate = 10
     url        = ""
     weight     = 4
 
-#[[menu.main]]
-#    name       = "Meetings"
-#    # identifier = "section.ap-home"
-#    url        = "/events/meetings/"
-#    weight     = 1
-#    parent     = "menu.events"
-#    post       = 1
-
+[[menu.main]]
+   name       = "Next Meeting"
+    url        = "/events/next_meeting/"
+    weight     = 1
+    parent     = "menu.events"
+    post       = 1
 
 [[menu.main]]
-    name       = "ANIC moth workshops"
-    # identifier = "section.ap-home"
-    url        = "/events/anic_moth_workshop/"
+   name       = "Past Meetings"
+    url        = "/events/pastmeetings/"
     weight     = 2
     parent     = "menu.events"
     post       = 1
 
-[[menu.main]]
-    name       = "ANIC moth workshops"
-    # identifier = "section.ap-home"
-    url        = "/events/anic_moth_workshop/"
-    weight     = 3
-    parent     = "menu.events"
-    post       = 1
-
-[[menu.main]]
-    name       = "Next meeting"
-    # identifier = "section.ap-home"
-    url        = "/events/next_meeting/"
-    weight     = 4
-    parent     = "menu.events"
-    post       = 1
 
 #[[menu.main]]
 #    name       = "Butterflies Australia"
@@ -378,7 +360,7 @@ paginate = 10
 #    post       = 1
 #
 #[[menu.main]]
-#    name       = "The caterpillar key"
+#    name       = "The Caterpillar Key"
 #    url        = "https://keys.lucidcentral.org/keys/v3/the-caterpillar-key/"
 #    weight     = 3
 #    parent     = "menu.resources"
