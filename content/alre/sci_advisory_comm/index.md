@@ -5,7 +5,7 @@ keywords = ["ALRE"]
 authors = ["admin"]
 +++
 
-## Dr Marianne Horak (Chairperson).
+## Dr Marianne Horak (Chairperson)
  
 {{< figure src="/img/alre/SOROLOPHA_ johngreeni_Horak 2006_Tully_Falls_Qld.jpg" width=50% title=""  >}}
 *Sorolopha johngreeni* Horak
@@ -13,7 +13,7 @@ authors = ["admin"]
 Dr Horak retired in 2010 as head of Lepidoptera Research at ANIC and is currently an Honorary Research Fellow. She was the recipient of the inaugural JO Westwood Medal by the Royal Entomological Society and is editor in chief of the series, Monographs Of Australian Lepidoptera. She is best known for her work on Australian Tortricidae and the iconic scribbly gum moths.
 
  
-## Prof. Douglas Hilton.
+## Prof. Douglas Hilton
 
 {{< figure src="/img/alre/heliozelid.jpg" width=50% title=""  >}}
 *Heliozelid* 

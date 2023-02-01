@@ -5,7 +5,9 @@ keywords = ["ALRE"]
 authors = ["admin"]
 +++
 
-{{< figure src="/img/alre/SYCACANTHA niphostetha Turner 1946 Malandra Qld .jpg" width=40% title="Sycacantha niphostheta (Turner)"  >}}
+{{< figure src="/img/alre/SYCACANTHA niphostetha Turner 1946 Malandra Qld .jpg" width=40% title=""  >}}
+*Sycacantha niphostheta* (Turner)
+
 
 # AUSTRALIAN LEPIDOPTERA RESEARCH ENDOWMENT 
 
@@ -23,16 +25,16 @@ The endowment supports endeavors in the following areas of interest:
 * Support for visitors or students to curate parts of the ANIC Lepidoptera collection
 * Collecting trips designed to obtain material for specific taxonomic studies
 * Molecular, morphological and life-history research to generate data for taxonomic and phylogenetic studies
-* Provision of cabinets to amateur collectors to ensure proper housing of material collected or on loan $from Institutions
+* Provision of cabinets to amateur collectors to ensure proper housing of material collected or on loan from Institutions
 * Preparation and printing of scientific publications
 * Travel and accommodation for international researchers to work in the ANIC to undertake taxonomic research and/or curatorial work enhancing the scientific value of the collection
 * Scholarships to support undergraduate, MSc and PhD students undertaking taxonomic and phylogenetic research.
 
 A list of all past successful grants are on the [Past Awarded Grants]( {{< ref "alre/pastgrants/index.md" >}}) page. 
 
-## Call for Grant Applications 2022-2023
+## Call for Grant Applications 2023 - 2024
 
-We are pleased to announce grants of up to $4500 from the Perpetual Foundation - Australian Lepidoptera Research Endowment (ALRE) for the financial year July 2022 to 2023, and we are inviting applications.​
+We are pleased to announce grants of up to $4500 from the Perpetual Foundation - Australian Lepidoptera Research Endowment (ALRE) for the financial year July 2023 to 2024, and we are inviting applications.​
 
 ## Eligibility
 
@@ -43,13 +45,13 @@ Any lepidopterist, amateur or professional, working on the Australian fauna, is 
 To be eligible, grants can only be handled by organisations that hold Australian Taxation Office Deductible Gift Recipient (DGR1) endorsement (covered by Item 1 of the table in section 30-15 of the Income Tax Assessment Act 1997). Further documentation may be requested during the selection process to confirm an organisation’s eligibility.
 ​
 ## ​Application
-The application form can be found on the ALRE website and should be submitted by 1 March 2022 by email to Marianne.Horak@csiro.au
+The application form can be found on the ALRE website and should be submitted by 1 March 2023 by email to Marianne.Horak@csiro.au.
 
 ## Selection Process
  
-The applications will be assessed by the Scientific Advisory Committee and a recommendation with applications to be funded from the ALRE will be made to the trustee in April 2022. Successful applicants will be advised by the trustee by 30 June 2022 and the grant will be disbursed to the eligible beneficiaries.
+The applications will be assessed by the Scientific Advisory Committee and a recommendation with applications to be funded from the ALRE will be made to the trustee in April 2023. Successful applicants will be advised by the trustee by 31 May 2023 and the grant will be disbursed to the eligible beneficiaries.
 
-For queries please contact Marianne Horak Marianne.Horak@csiro.au  Tel. 0417494389 
+For queries please contact Marianne Horak at Marianne.Horak@csiro.au or via telephone 041749438. 
 
 Please download the application form here: [Application Form ](https://drive.google.com/file/d/1Gg6Whnp2kmfPY69AFhJsxGBWM0ZAc79P/view?usp=sharing)
 

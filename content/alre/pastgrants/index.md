@@ -8,8 +8,13 @@ authors = ["admin"]
 
 The Australian Lepidoptera Research Endowment has funded successful applications since 2016. Below is a list of all past successful applications. 
 
+### Grants awarded in 2022
 
-### Grants disbursed in 2021
+1.  Axel Kallies (Walter and Eliza Hall Institute of Medical Research): Funding towards molecular phylogeny of the Australian Adeloidea, building on from Ebbe Nielsen's unpublished Ph.D. research. 
+
+2.  Ethan Beaver (Australian National University, Canberra): Funding towards Honours project 'Systematics and evolution of the *Ogyris aenone* species group (Lepidoptera: Lycaenidae)'.
+
+### Grants awarded in 2021
 
 1.  Peter McQuillan (Tasmania Land Conservancy): An enduring enigma: towards a resolution of the Common Gum Emerald.
 
@@ -17,7 +22,7 @@ The Australian Lepidoptera Research Endowment has funded successful applications
 
 3.  Georgina Binns (Macquarie University): Understanding warning signal mimicry.
 
-### Grants disbursed in 2020
+### Grants awarded in 2020
 
 1. Jon Finch (Western Sydney University): Funding for field and lab work for his study on *Epicephala* moths (Gracillariidae) and their hosts (Phyllantaceae).
 
@@ -25,7 +30,7 @@ The Australian Lepidoptera Research Endowment has funded successful applications
 
 3.  Peter Mackey: Funding for visit to the ANIC to dissect lymantriine types borrowed from The Natural History Museum, London, which have to be dissected at the ANIC. 
 
-### Grants disbursed in 2019
+### Grants awarded in 2019
  
 
 1. Peter Mackey (CSIRO ANIC): Support for visiting the Australian Museum for his revision of the Australian *Lymantriinae* for a Monograph volume.
@@ -43,7 +48,7 @@ The Australian Lepidoptera Research Endowment has funded successful applications
 5. Georgina Binns (Macquarie University): Contribution towards molecular taxonomic resolution of the *Amata nigriceps* complex
 
 
-### Grants disbursed in 2018
+### Grants awarded in 2018
 ​
 We received only two applications for the third funding round, and they were both funded:
  
@@ -53,7 +58,7 @@ We received only two applications for the third funding round, and they were bot
 2.  Adam Kiss (University of Debrecen, Hungary): Taxonomic study on the Australian *Acronictinae* and *Amphipyrinae* species (Noctuidae).
 ​
 
-### ​Grants disbursed in 2017
+### ​Grants awarded in 2017
 
 
 We received three applications for our second funding round and managed to fund all three grants:
@@ -69,7 +74,7 @@ We received three applications for our second funding round and managed to fund 
 
 
 
-### Grants disbursed in 2016
+### Grants awarded in 2016
 
 We received five applications for our first funding round and the following three grants were offered and accepted:
 
