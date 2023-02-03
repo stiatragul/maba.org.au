@@ -25,7 +25,9 @@ Many important scientific questions about moths and butterflies remain unanswere
 
 ## Grants
 
-A call for applications will be made by the Endowment in January **each year** and will outline the amount of funding available and the areas that will be considered for support. The deadline for receipt of applications will be 1 March. A decision on which applications to recommend to the trustee to fund from the Endowment will be made by the Scientific Advisory Committee and the trustee will advise successful applicants by 31 May. Researchers must provide the Scientific Advisory Committee with a report showing previously funded research has been completed before becoming eligible for potential new funding. 
+A call for applications will be made by the Endowment in January **each year** and will outline the amount of funding available and the areas that will be considered for support. This announcement will be made via email or newsletter to MABA members. 
+
+The deadline for receipt of applications will be 1 March. A decision on which applications to recommend to the trustee to fund from the Endowment will be made by the Scientific Advisory Committee and the trustee will advise successful applicants by 31 May. Researchers must provide the Scientific Advisory Committee with a report showing previously funded research has been completed before becoming eligible for potential new funding. 
 
 For more information on the ALRE grant (including application process, past grants awarded and selection process) you can visit the Australian Lepidoptera Research Endowment [Information Page]( {{< ref "alre/grants/index.md" >}}) page.
 
