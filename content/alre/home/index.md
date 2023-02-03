@@ -11,11 +11,13 @@ authors = ["admin"]
 <!-- {{< gallery-slider dir="/img/alre/" auto-slide="4000" width="800px" height="400px" >}} -->
 {{< figure src="/img/alre/SYNEMON  magnifica Strand, 1911 Blackheath NSW F.jpg" width=70% title=""  >}}
 
-The Australian Lepidoptera Research Endowment, established by Drs Marianne Horak and Douglas Hilton within the [Perpetual Foundation](https://www.perpetual.com.au/), wishes to support taxonomic and phylogenetic research on Australian moths and butterflies by professional and amateur entomologists, and to enhance the curation of the Lepidoptera collection at the [Australian National Insect Collection (ANIC)](https://www.csiro.au/en/about/facilities-collections/collections/anic). 
+### About the Australian Lepidoptera Research Endowment
+
+The Australian Lepidoptera Research Endowment (ALRE), established by Drs Marianne Horak and Douglas Hilton within the [Perpetual Foundation](https://www.perpetual.com.au/), wishes to support taxonomic and phylogenetic research on Australian moths and butterflies by professional and amateur entomologists, and to enhance the curation of the Lepidoptera collection at the [Australian National Insect Collection (ANIC)](https://www.csiro.au/en/about/facilities-collections/collections/anic). 
  
 ### The need for support of research on Australian Lepidoptera 
 
-Moths and butterflies are an iconic part of Australia’s landscape.  For many of us they represent one of our first memories of the beauty of nature. They play a crucial role in our diverse ecosystems, acting as obligate pollinators for iconic plant species like Boronia and as essential components of our eucalypt forests.  They are sentinels to the health of our environment and are important indicator species in conservation efforts. As introduced and endemic pests they have the potential to profoundly affect our agricultural sector and our economy.
+Moths and butterflies are an iconic part of Australia’s landscape.  For many of us they represent one of our first memories of the beauty of nature. They play a crucial role in our diverse ecosystems, acting as obligate pollinators for iconic plant species like *Boronia* and as essential components of our eucalypt forests.  They are sentinels to the health of our environment and are important indicator species in conservation efforts. As introduced and endemic pests they have the potential to profoundly affect our agricultural sector and our economy.
 
 To understand our moths and butterflies requires we appreciate the extent of their diversity, that we provide them with names, unravel their evolutionary relationships and determine their life histories.  Australia has a rich moth fauna, estimated to number 30,000 or more species, and is a global hot-spot for many families of moths, especially primitive moths that can provide insight into early Lepidoptera evolution. Despite their importance and scientific interest, at best a third of our species have names and have been described scientifically and we understand the life-cycle of perhaps a few hundred species in any detail.
 
@@ -25,7 +27,7 @@ Many important scientific questions about moths and butterflies remain unanswere
 
 A call for applications will be made by the Endowment in January **each year** and will outline the amount of funding available and the areas that will be considered for support. The deadline for receipt of applications will be 1 March. A decision on which applications to recommend to the trustee to fund from the Endowment will be made by the Scientific Advisory Committee and the trustee will advise successful applicants by 31 May. Researchers must provide the Scientific Advisory Committee with a report showing previously funded research has been completed before becoming eligible for potential new funding. 
 
-For more information on the grants (including application process, past grants awarded and selection process) you can visit the [Grants]( {{< ref "alre/grants/index.md" >}}) page.
+For more information on the ALRE grant (including application process, past grants awarded and selection process) you can visit the Australian Lepidoptera Research Endowment [Information Page]( {{< ref "alre/grants/index.md" >}}) page.
 
 
 ## Scientific Advisory Committee 
