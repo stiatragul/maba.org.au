@@ -1,5 +1,5 @@
 weight: 2
 name: "Membership"
 icon: "fas fa-users"
-url: "./membership/membership_categories/"
+url: "./membership/newmembers/"
 description: "Find out how to join MABA"
