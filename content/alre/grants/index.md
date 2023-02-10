@@ -19,7 +19,7 @@ The Australian Lepidoptera Research Endowment, established by Drs Marianne Horak
 A call for applications will be made by the Endowment in January each year and will outline the amount of funding available and the areas that will be considered for support. The deadline for receipt of applications will be 1 March. A decision on which applications to recommend to the trustee to fund from the Endowment will be made by the Scientific Advisory Committee and the trustee will advise successful applicants by 31 May. Researchers must provide the Scientific Advisory Committee with a report showing previously funded research has been completed before becoming eligible for potential new funding. Grant application forms see under Grants. 
 
 ### Grant Project Eligibility
-The endowment supports endeavors in the following areas of interest:
+The endowment supports endeavors in the following areas of interest on Australian lepidoptera:
 
 
 * Support for visitors or students to curate parts of the ANIC Lepidoptera collection
@@ -38,22 +38,22 @@ We are pleased to announce grants of up to $4500 from the Perpetual Foundation -
 
 ## Eligibility
 
-Any lepidopterist, amateur or professional, working on the Australian fauna, is eligible to apply for any of the activities considered for support listed on the ALRE website
-
-<!-- http://www.australianlepidopteraendowment.com/ -->
+Any lepidopterist, amateur or professional, working on the Australian fauna, is eligible to apply for any of the activities considered for support.
 
 To be eligible, grants can only be handled by organisations that hold Australian Taxation Office Deductible Gift Recipient (DGR1) endorsement (covered by Item 1 of the table in section 30-15 of the Income Tax Assessment Act 1997). Further documentation may be requested during the selection process to confirm an organisation’s eligibility.
-​
-## ​Application
-The application form can be found on the ALRE website and should be submitted by 1 March 2023 by email to Marianne.Horak@csiro.au.
 
 ## Selection Process
  
 The applications will be assessed by the Scientific Advisory Committee and a recommendation with applications to be funded from the ALRE will be made to the trustee in April 2023. Successful applicants will be advised by the trustee by 31 May 2023 and the grant will be disbursed to the eligible beneficiaries.
 
-For queries please contact Marianne Horak at Marianne.Horak@csiro.au or via telephone 041749438. 
+​
+## ​Application
+Please download the application form here: [Application Form](https://drive.google.com/file/d/1Gg6Whnp2kmfPY69AFhJsxGBWM0ZAc79P/view?usp=sharing)
 
-Please download the application form here: [Application Form ](https://drive.google.com/file/d/1Gg6Whnp2kmfPY69AFhJsxGBWM0ZAc79P/view?usp=sharing)
+The application form should be submitted by **1 March 2023** by email to Marianne.Horak@csiro.au.
+
+
+For queries please contact Marianne Horak at Marianne.Horak@csiro.au or via telephone 041749438. 
 
 
 Acknowledgements to CSIRO Publishing for the Logobased on a drawing by R. Nielsen for the Checklist of the Lepidoptera of Australia, volume 4 of Monographs on Australian Lepidoptera: http://www.publish.csiro.au/nid/22/pid/260.htm.

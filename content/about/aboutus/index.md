@@ -9,7 +9,7 @@ authors = ["admin"]
 
 Welcome to Moths and Butterflies Australasia Inc. (MABA). We are a not-for-profit organisation with charitable status that aims to encourage interest in the scientific study, research and conservation of moths and butterflies (Lepidoptera) in the Australian Region (Australasia). The society was founded in 2021 and provides a forum to unite people with similar interests in moths and butterflies across Australia, New Zealand, and adjacent islands. The society has a broad appeal to a wide range of interest groups, including amateur naturalists, photographers, conservationists and citizen scientists who are passionate about observing, collecting and studying moths and butterflies, not just professional entomologists. Thus, through community engagement we increase connectivity between various people, research institutions and non-government organizations, facilitating networks between experts and promoting collaborations.
 
-# Aims and objectives 
+## Aims and objectives 
 
 The aims and objectives of MABA are:
 
@@ -27,14 +27,16 @@ The aims and objectives of MABA are:
 
 MABA has a dedicated committee of council members. More about the council members and who they are can be found on the [Office Bearers]( {{< ref "/about/office_bearers/index.md">}} ) webpage. 
 
-### Constitution
+## Constitution
+
+A copy of our constitution can be viewed and downloaded at the following link: [MABA Constitution](https://drive.google.com/file/d/18Q_sbAqG1abpti817adJz4ldNJZ-ww2d/view?usp=sharing)
 
 
-### Logo
+## About the logo
 {{< figure src="/img/logo/maba_logo_w_black.png" width=50% title="MABA logo designed by Sharyn Wragg"  >}}
 
 The logo features the drepanid moth _Hypsidia erythropsalis_ Rothschild, 1896 a brightly coloured species endemic to the Wet Tropics of north-eastern Queensland, where it is restricted to tropical rainforest from Cooktown to Innisfail. Like many Australian Lepidoptera, the larval food plants, life cycle and biology are unknown, highlighting the knowledge gaps and opportunities for field discovery that typify so much of our vast fauna. 
 
 {{< figure src="/img/Sharyn.jpg" width=20% title="Sharyn Wragg"  >}}
 
-The logo was designed by Ms Sharyn Wragg. Sharyn worked on Lepidoptera as an Honours student at the Australian National University (ANU), and as a technical officer in the Australian National Insect Collection, CSIRO. She currently works in IT at the ANU Research School of Biology, but enjoys engaging in art, graphic, illustration and photography projects that highlight the beauty and conservation value of the Australian biota and landscape. 
+The logo was designed by Sharyn Wragg. Sharyn worked on Lepidoptera as an Honours student at the Australian National University (ANU), and as a technical officer in the Australian National Insect Collection, CSIRO. She currently works at the ANU Research School of Biology, but enjoys engaging in art, graphic, illustration and photography projects that highlight the beauty and conservation value of the Australian biota and landscape. 
