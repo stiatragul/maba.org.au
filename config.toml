@@ -331,19 +331,27 @@ paginate = 10
     parent     = "menu.resources"
     post       = 3
 
-    [[menu.main]]
-        name       = "Moths and Butterflies of New Zealand Trust"
-        url        = "https://www.nzbutterflies.org.nz/"
+       [[menu.main]]
+        name       = "Butterfly Conservation South Australia"
+        url        = "https://butterflyconservationsa.net.au/ "
         weight     = 1
         parent     = "section.membo"
         post       = 1
-    
+
     [[menu.main]]
-        name       = "Butterfly Conservation South Australia"
-        url        = "https://butterflyconservationsa.net.au/ "
+        name       = "Moths and Butterflies of New Zealand Trust"
+        url        = "https://www.nzbutterflies.org.nz/"
         weight     = 2
         parent     = "section.membo"
         post       = 1
+    
+  [[menu.main]]
+        name       = "Lepidopterists' Society of Africa"
+        url        = "https://www.lepsocafrica.org/?p=home"
+        weight     = 3
+        parent     = "section.membo"
+        post       = 1
+    
 
 #[[menu.main]]
 #    name       = "Australian Moths Online"
