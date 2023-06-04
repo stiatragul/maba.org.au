@@ -32,7 +32,7 @@ This event will be free to members, but non-members will be charged an entry fee
 ### Saturday 4 NOV, 6.30–10.30 pm: Dinner, Belconnen. 
 Dinner location TBA. Members and guests are welcome. 
 
-### 5 NOV, 9.30 am–12.00 pm: Butterfly & larval host plant identification tour
+### Sunday 5 NOV, 9.30 am–12.00 pm: Butterfly & larval host plant identification tour
 Location: Australian National Botanic Gardens
 
 We will meet outside the Theatrette opposite the book shop. Participants are requested to BYO binoculars, camera, hat and sunscreen. Because this is a public venue, we request that you do not bring your butterfly nets. Lunch will not be provided but there eating options at the ANBG Pollen Café or BYO. 
