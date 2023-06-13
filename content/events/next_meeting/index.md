@@ -29,6 +29,13 @@ Location: Australian National Botanic Gardens Theatrette (located opposite the b
 
 This event will be free to members, but non-members will be charged an entry fee of $50. Morning tea, lunch and afternoon tea will be provided. There will be books on butterflies and moths for sale, and book signing opportunities. We are encouraging members to talk on any subject of Lepidoptera: it is an opportunity for members to share their experiences about rearing / breeding work, field trips and travel, conservation projects, as well as more detailed scientific research being carried in Australasia. A/Prof David J Lohman from the City College of New York, USA will deliver the keynote address. 
 
+#### About the Keynote Speaker
+
+Professor David J. Lohman is Chair of the Biology Department at the City College of New York, USA. He is also a Visiting Scientist at the American Museum of Natural History, and a Research Associate at the Museum of Comparative Zoology (Harvard University) and at the National Museum of Natural History in the Philippines. His research examines the ecology, evolution, and conservation of biodiversity, with a particular focus on butterflies in Southeast Asia. He grew up on a corn farm in rural Illinois (USA), earned his B.Sc. in Biology summa cum laude from Bradley University, and spent a year as a Fulbright Research Scholar in Brisbane, Australia, mentored by Prof. Roger Kitching. During his doctoral work at the Department of Organismic and Evolutionary Biology at Harvard University, studying under Prof. Naomi Pierce, he undertook extensive fieldwork in Australia and Thailand before graduating with his PhD in 2004. He did postdoctoral research in Thailand before a short stint as a lecturer at Harvard, followed by a three-year postdoctoral position at the National University of Singapore. He moved to New York City in 2009. In 2018, he received an ASEAN Fulbright Research Award to study island biogeography of butterflies in the Philippines, Indonesia, and Vietnam. He has been honored by receiving the College’s highest award for teaching innovation in 2022, and the highest award for Research Excellence in Science in 2023. He is further honored by having three species named after him: a parasitic wasp from Thailand; an orchid from Mindanao (Philippines), and a fly from New York that feeds exclusively on duck feces! He is fluent in the Thai language, and in his spare time he is the principal bassoon with QUO, an amateur symphony orchestra in New York City for which he currently serves as the president of the board of trustees.
+
+For further information, please visit: http://lohmanlab.org/ 
+
+
 ### Saturday 4 NOV, 6.30–10.30 pm: Dinner, Belconnen. 
 Dinner location TBA. Members and guests are welcome. 
 
