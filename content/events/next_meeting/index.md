@@ -36,8 +36,13 @@ Professor David J. Lohman is Chair of the Biology Department at the City College
 For further information, please visit: http://lohmanlab.org/ 
 
 
-### Saturday 4 NOV, 6.30–10.30 pm: Dinner, Belconnen. 
-Dinner location TBA. Members and guests are welcome. 
+### Saturday 4 NOV, 6.30–10.30 pm: Dinner
+Location: China Tea Club, 7 Montford Ct, North Lyneham, ACT. 
+
+Members and guests are welcome. 
+
+Note that this is not a free event.
+
 
 ### Sunday 5 NOV, 9.30 am–12.00 pm: Butterfly & larval host plant identification tour
 Location: Australian National Botanic Gardens
