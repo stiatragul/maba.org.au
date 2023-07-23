@@ -8,26 +8,37 @@ authors = ["admin"]
 
 # MABA ANNUAL EVENT 2023
 
-The inaugural annual MABA event for 2023 will be held at the [Australian National Botanic Gardens (ANBG)](https://parksaustralia.gov.au/botanic-gardens/) at Black Mountain, Canberra, ACT, Australia, **3-5 November**. 
+The inaugural annual MABA event for 2023 will be held at the [Australian National Botanic Gardens (ANBG)](https://parksaustralia.gov.au/botanic-gardens/) Black Mountain, Canberra, ACT, Australia, **3-5 November**. 
 
 The event will be free to members, except the dinner on Saturday night. 
 
-Non-members may attend the talks on Saturday but will have to pay an entry fee. We are planning to hold six activities, as follows:
+Non-members may attend the talks on Saturday but will have to pay an entry fee. 
 
-### Friday 3 NOV, 5.00–7.00pm: Social function
+We are planning to hold six activities, as follows:
+
+### Friday 3 NOV, 5.00–7.00 pm: Social function
 Location: CSIRO Black Mountain Library ground floor. 
 
-The social function will also include a scientific art exhibition based on the collection of Lepidoptera art works curated in the rare book collection of the Library. The exhibition will include original paintings by Neville Cayley, George Browning, Ninon Geier and Sybil Monteith that were published in various textbooks on Australian butterflies during the twentieth century. Dinner and drinks will be provided. 
+The social function will also include a scientific art exhibition based on the collection of Lepidoptera art works curated in the rare book collection of the Black Mountain Library. The exhibition will include original paintings by Neville Cayley, George Browning, Ninon Geier and Sybil Monteith that were published in various textbooks on Australian butterflies during the twentieth century. Dinner and drinks will be provided. 
 
-### Friday 3 NOV, 8.00 pm–12.00 am: Light trapping for moths 
-Location: Australian National Botanic Gardens
+### Friday 3 NOV, 8.00 pm–11.00 pm: Light trapping for moths 
+Location: Australian National Botanic Gardens.
 
-Several different light traps will be set up in gardens near the Black Mountain reserve. Participants are requested to BYO torches and sun-glasses, and to wear sturdy shoes/boots. Those attending the workshop on Sunday afternoon are encouraged to collect material for that activity. The event will be cancelled if weather is wet/storms but may be postponed to Sunday 5 November depending on numbers and interest.
+Several different light traps will be set up in gardens near the Black Mountain reserve. Participants are requested to BYO torches, sun-glasses, hats and to wear sturdy shoes/boots. Those attending the workshop on Sunday afternoon are encouraged to collect material for that activity. 
 
-### Saturday 4 NOV, 9.00 am–5.00pm: Talks, AGM and keynote speaker
+MABA will supply 50 ml falcon tubes and a portable freezer to temporarily store moths for the workshop. Because there will be many of us, we request that you do not bring collecting nets. The event will be cancelled if weather is wet/storms but may be postponed to Sunday 5 November depending on numbers and interest.
+
+
+### Saturday 4 NOV, 9.00 am–5.30 pm: Keynote speaker, Talks and AGM
 Location: Australian National Botanic Gardens Theatrette (located opposite the bookstore and visitor centre)
 
-This event will be free to members, but non-members will be charged an entry fee of $50. Morning tea, lunch and afternoon tea will be provided. There will be books on butterflies and moths for sale, and book signing opportunities. We are encouraging members to talk on any subject of Lepidoptera: it is an opportunity for members to share their experiences about rearing / breeding work, field trips and travel, conservation projects, as well as more detailed scientific research being carried in Australasia. A/Prof David J Lohman from the City College of New York, USA will deliver the keynote address. 
+This event will include a series of talks and the Annual General Meeting. It will be free to members, but non-members will be charged an entry fee of $50. 
+
+Morning tea, lunch and afternoon tea will be provided in the Dickson room (opposite the Theatrette). There will be books on butterflies and moths for sale, and book signing opportunities. ANBG rangers will open the boom gates for participants to use the free overflow parking area off Clunies Ross St. 
+
+We are encouraging members to talk on any subject of Lepidoptera: it is an opportunity for members to share their experiences about rearing / breeding work, field trips and travel, conservation projects, as well as more detailed scientific research being carried in Australasia. 
+
+A/Prof David J Lohman from the City College of New York, USA will deliver the keynote address.
 
 #### About the Keynote Speaker
 
@@ -47,17 +58,24 @@ Note that this is not a free event.
 ### Sunday 5 NOV, 9.30 am–12.00 pm: Butterfly & larval host plant identification tour
 Location: Australian National Botanic Gardens
 
-We will meet outside the Theatrette opposite the book shop. Participants are requested to BYO binoculars, camera, hat and sunscreen. Because this is a public venue, we request that you do not bring your butterfly nets. Lunch will not be provided but there eating options at the ANBG Pollen Café or BYO. 
+We will meet outside the Theatrette opposite the book shop. Participants are encouraged to BYO binoculars, camera, hat and sunscreen. Because this is a public venue, we request that you do not bring your butterfly nets. There will be no collecting of lepidoptera on this tour, it will be purely observational.
+
+Lunch will not be provided but there are eating options at the ANBG Pollen Café or BYO. 
+
+ANBG rangers will open the boom gates for participants to use the free overflow parking area off Clunies Ross St. 
 
 ### Sunday 5 NOV, 1.30–4.30pm: Workshop
 Location: Australian National Botanic Gardens, Banksia Building.
 
-The workshop will focus on Lepidoptera specimen setting, labelling and curation, and how to repair of damaged specimens. The emphasis will be on micromoths with smaller attention given to microlepidoptera. Afternoon tea will be provided. 
+The workshop will focus on Lepidoptera specimen setting, labelling and curation, and how to repair of damaged specimens. The emphasis will be on micromoths with smaller attention given to microlepidoptera. Afternoon tea will be provided.
 
-Registration essential for the workshop. 
+Registration essential for the workshop.
+
 
 ## Registration
-To register your attendance please contact the Secretary Michael Braby secretary@maba.org.au 
+To register your attendance to any of all of the events please contact the Secretary Michael Braby secretary@maba.org.au by **1 August 2023**.
 
 ## Accommodation
 There are plenty of options for accommodation in the CBD of Canberra. However, during previous moth workshops participants have often stayed at the [Alivio Tourist Park Canberra](https://aliviogroup.com.au/") (20 Kunzea St, O'Connor ACT 2602; ph. +61 2 6247 5466), which is close to Black Mountain and reasonably priced.
+
+**This page last updated on 23 July 2023.**
