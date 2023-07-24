@@ -47,7 +47,7 @@ Professor David J. Lohman is Chair of the Biology Department at the City College
 For further information, please visit: http://lohmanlab.org/ 
 
 
-### Saturday 4 NOV, 6.30–10.30 pm: Dinner
+### Saturday 4 NOV, 7.00–10.00 pm: Dinner
 Location: China Tea Club, 7 Montford Ct, North Lyneham, ACT. 
 
 Members and guests are welcome. 
@@ -78,4 +78,4 @@ To register your attendance to any of all of the events please contact the Secre
 ## Accommodation
 There are plenty of options for accommodation in the CBD of Canberra. However, during previous moth workshops participants have often stayed at the [Alivio Tourist Park Canberra](https://aliviogroup.com.au/") (20 Kunzea St, O'Connor ACT 2602; ph. +61 2 6247 5466), which is close to Black Mountain and reasonably priced.
 
-**This page last updated on 23 July 2023.**
+**This page last updated on 24 July 2023.**
