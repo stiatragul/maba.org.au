@@ -73,9 +73,9 @@ Registration essential for the workshop.
 
 
 ## Registration
-To register your attendance to any of all of the events please contact the Secretary Michael Braby secretary@maba.org.au by **1 August 2023**.
+To register your attendance to any of all of the events please contact the Secretary Michael Braby secretary@maba.org.au by **15 September 2023**.
 
 ## Accommodation
 There are plenty of options for accommodation in the CBD of Canberra. However, during previous moth workshops participants have often stayed at the [Alivio Tourist Park Canberra](https://aliviogroup.com.au/") (20 Kunzea St, O'Connor ACT 2602; ph. +61 2 6247 5466), which is close to Black Mountain and reasonably priced.
 
-**This page last updated on 24 July 2023.**
+**This page last updated on 18 August 2023.**
