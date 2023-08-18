@@ -75,6 +75,7 @@ He was made a Member of the Order of Australia for services to entomological sci
 
 {{< figure src="/img/office_bearers/Doug_Hilton.jpg" width=40% title="Doug"  >}}
 
+### President: Doug Hilton
 Doug is based in Melbourne where he is a research scientist and Director of the Walter & Eliza Hall Institute of Medical Research. He studied first at Monash University (BSc) followed by BSc Hons. and a PhD at University of Melbourne. At the end of 1984 he undertook summer vacation work at ANU and fell in love with blood cells, later working as a research student in the Walter and Eliza Hall Institute, studying the hormones that regulate blood cell production. He hasn’t worked on anything else in the last 35 years. He is fascinated by fundamental science, but also believes in the importance of translating discoveries into applications for the community that funds this research.
 
 Doug’s research career has received considerable recognition. He is a Fellow of the Australian Academy of Science, the Australian Academy of Technology and Engineering, and the Australian Academy of Health and Medical Sciences. In 2016 he was made an Officer of the Order of Australia for his services to medical research, in particular his advocacy for gender equality in science and commitment to supporting young researchers. 
