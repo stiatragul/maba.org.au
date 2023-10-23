@@ -32,6 +32,8 @@ MABA will supply 50 ml falcon tubes and a portable freezer to temporarily store 
 ### Saturday 4 NOV, 9.00 am–5.30 pm: Keynote speaker, Talks and AGM
 Location: Australian National Botanic Gardens Theatrette (located opposite the bookstore and visitor centre)
 
+**NEW** A PDF version of the program on the day can be viewed at **[this link](https://drive.google.com/file/d/1aGKkm6N7o74c_01BV4uCyz4B1kuMEGfa/view?usp=sharing)**.
+
 This event will include a series of talks and the Annual General Meeting. It will be free to members, but non-members will be charged an entry fee of $50. 
 
 Morning tea, lunch and afternoon tea will be provided in the Dickson room (opposite the Theatrette). There will be books on butterflies and moths for sale, and book signing opportunities. ANBG rangers will open the boom gates for participants to use the free overflow parking area off Clunies Ross St. 
@@ -78,4 +80,4 @@ To register your attendance to any of all of the events please contact the Secre
 ## Accommodation
 There are plenty of options for accommodation in the CBD of Canberra. However, during previous moth workshops participants have often stayed at the [Alivio Tourist Park Canberra](https://aliviogroup.com.au/") (20 Kunzea St, O'Connor ACT 2602; ph. +61 2 6247 5466), which is close to Black Mountain and reasonably priced.
 
-**This page last updated on 18 August 2023.**
+**This page last updated on 23 October 2023.**
