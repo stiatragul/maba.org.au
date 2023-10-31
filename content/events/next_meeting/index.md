@@ -55,8 +55,7 @@ Location: China Tea Club, 7 Montford Ct, North Lyneham, ACT.
 
 Members and guests are welcome. 
 
-Note that this is not a free event.
-
+We have arranged to have a banquet dinner at $39.50 per head. Those with dietary restrictions (e.g. Gluten Free) can order a separate meal. Drinks can be purchased separately over the counter (at the bar) or BYO wine with free corkage. 
 
 ### Sunday 5 NOV, 9.30 am–12.00 pm: Butterfly & larval host plant identification tour
 Location: Australian National Botanic Gardens
@@ -81,4 +80,4 @@ To register your attendance to any of all of the events please contact the Secre
 ## Accommodation
 There are plenty of options for accommodation in the CBD of Canberra. However, during previous moth workshops participants have often stayed at the [Alivio Tourist Park Canberra](https://aliviogroup.com.au/") (20 Kunzea St, O'Connor ACT 2602; ph. +61 2 6247 5466), which is close to Black Mountain and reasonably priced.
 
-**This page last updated on 23 October 2023.**
+**This page last updated on 31 October 2023.**
