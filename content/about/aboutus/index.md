@@ -23,7 +23,11 @@ The aims and objectives of MABA are:
 
 * To lobby for improved funding and training for research on moths and butterflies.
 
-## Office bearers
+## Office Bearers
+
+Len Willan
+
+## Honorary Life Members
 
 MABA has a dedicated committee of council members. More about the council members and who they are can be found on the [Office Bearers]( {{< ref "/about/office_bearers/index.md">}} ) webpage. 
 

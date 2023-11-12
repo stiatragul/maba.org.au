@@ -13,6 +13,8 @@ The MABA newsletter is produced annually or biannually depending on demand and c
 
 ### 2023
 
+[Newsletter #4 October 2023](https://drive.google.com/file/d/1xmAmyYq3O5pUgtQb-zaj_5OVCTJH2Mij/view?usp=drive_link)
+
 [Newsletter #3 March 2023](https://drive.google.com/file/d/1wggcYt2xGsF1yAGbq3fYBRQ5tVka1zNR/view?usp=share_link)
 
 ### 2022
