@@ -31,6 +31,11 @@ MABA has a dedicated committee of council members. More about the council member
 
 A copy of our constitution can be viewed and downloaded at the following link: [MABA Constitution](https://drive.google.com/file/d/18Q_sbAqG1abpti817adJz4ldNJZ-ww2d/view?usp=sharing)
 
+## MABA Guidelines on Collecting Lepidoptera
+
+A copy of our collecting guidelines can be viewed and downloaded at the following link: [MABA Guidelines on Collecting Lepidoptera](https://drive.google.com/file/d/1kUWnjRAMdWi639aFhEPaQaqUbMNRUFMB/view?usp=sharing)
+
+
 
 ## About the logo
 {{< figure src="/img/logo/maba_logo_w_black.png" width=50% title="MABA logo designed by Sharyn Wragg"  >}}
