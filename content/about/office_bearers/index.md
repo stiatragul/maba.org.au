@@ -71,7 +71,7 @@ Earlier she spent two years in New Zealand (1967–1969) and two years at Bulolo
 
 ### President: Axel Kallies
 
-{{< figure src="/img/office_bearers/Axel_Kalies_in_WA.jpg" width=40% title="Axel in the field in Western Australia"  >}}
+{{< figure src="/img/office_bearers/Axel_Kallies.jpg" width=40% title=""  >}}
 
 Axel is a professor of molecular immunology at the Peter Doherty Institute for Infection and Immunity, University of Melbourne. Ever since he was a teenager he has been interested in moths, and has specialised in the taxonomy, systematics and phylogeny of the superfamily Cossoidea, including Cossidae, Sesiidae, Brachodidae and Castniidae, describing more than 170 taxa mostly in these families. This includes moths from Europe, Africa, Asia, Oceania, and of course Australia. He is the author or co-author of over 80 scientific papers, including research articles on moth phylogeny, taxonomic descriptions and revisions, biology, faunal lists and new distributions. 
 
@@ -132,7 +132,7 @@ Robert was born in 1967 in Winchester, southern England. His father Ian is a kee
 
 ### Councillor (Website Officer): Ying Luo
 
-{{< figure src="/img/office_bearers/Ying_Luo.jpg" width=40% title="Ying in the ANIC"  >}}
+{{< figure src="/img/office_bearers/Ying_Luo.jpg" width=40% title="Ying Luo"  >}}
 
 Ying Luo is an early career entomologist, with a background in molecular systematics. Her entomological exploits have taken her far and wide, from a research assistant position in Hong Kong to a project officer with the Northern Australia Quarantine Strategy (Department of Agriculture, Water and the Environment) in Darwin. She described her first insect species (an ant) at the age of 21 and since then has been looking for opportunities to describe even more. This desire led her to her MPhil project based at the Australian National Insect Collection on a group of leaf-mining lepidopterans, the Phyllocnistinae (Family: Gracillariidae). Due to the lack of previous work in this area, she is keen to understand more about all leaf-mining Lepidoptera. Ying is passionate about the diversity of insects and diversity in science.
 
