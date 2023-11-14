@@ -212,15 +212,15 @@ paginate = 10
     weight     = 4
 
 [[menu.main]]
-   name       = "Next Meeting"
-    url        = "/events/next_meeting/"
+   name       = "Future Events"
+    url        = "/events/future_events/"
     weight     = 1
     parent     = "menu.events"
     post       = 1
 
 [[menu.main]]
-   name       = "Past Meetings"
-    url        = "/events/pastmeetings/"
+   name       = "Past Events"
+    url        = "/events/past_events/"
     weight     = 2
     parent     = "menu.events"
     post       = 1
