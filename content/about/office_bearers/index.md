@@ -11,7 +11,7 @@ authors = ["admin"]
 
 
 __President__
-Doug Hilton -
+Axel Kallies -
 president@maba.org.au
 
 __Secretary__
@@ -19,7 +19,7 @@ Michael Braby -
 secretary@maba.org.au
 
 __Vice-President__
-Axel Kallies -
+Donald Hobern  -
 vice.president@maba.org.au
 
 __Treasurer__
@@ -48,6 +48,9 @@ conservation@maba.org.au
 Robert Hoare (New Zealand Officer)
 newzealand@maba.org.au
 
+Marlene Walter (Councillor)
+general@maba.org.au
+
 Councillor (fund raising officer) - Vacant
 
 Councillor (media officer) - Vacant
@@ -66,8 +69,6 @@ Earlier she spent two years in New Zealand (1967–1969) and two years at Bulolo
 
 ## Council Members and roles
 
-{{< figure src="/img/office_bearers/Doug_Hilton.jpg" width=40% title="Doug"  >}}
-
 ### President: Axel Kallies
 
 {{< figure src="/img/office_bearers/Axel_Kalies_in_WA.jpg" width=40% title="Axel in the field in Western Australia"  >}}
@@ -84,7 +85,11 @@ Dr Michael Braby is an Honorary Associate Professor in the Division of Ecology a
 
 ### Vice President: Donald Hobern
 
-To be added. 
+{{< figure src="/img/office_bearers/Donald-Hobern_FI2.jpg" width=40% title="Donald Hobern at meeting with Chinese Academy of Sciences in Beijing"  >}}
+
+Donald Hobern is an amateur lepidopterist with particular interest in plume moths (Pterophoridae) and many-plume moths (Alucitidae). He has been passionate about natural history since growing up on the Essex coast in the UK. He studied Classics at university and then worked as a software developer and architect for IBM for 16 years, including several years in the US and in New Zealand. In 2002, he joined the newly-established Secretariat of the Global Biodiversity Information Facility (GBIF) in Copenhagen as Programme Officer for Data Access and Data Interoperability. Since then, he has worked internationally as a biodiversity informatics specialist, including leading roles in GBIF, the Atlas of Living Australia, the Taxonomic Databases Working Group, the International Barcode of Life Consortium and Catalogue of Life. He now divides his time between work to improve the quality and management of the Catalogue of Life Checklist and to improve data management for crop research data within the Australian Plant Phenomics Facility.
+
+Currently, his primary Lepidoptera interests involve building automated camera traps to collect standardised data on nightly moth numbers and work to fill gaps and correct errors in the Global Lepidoptera Index, a project to build a comprehensive and current listing of all the world's described moth and butterfly species.
 
 ### Treasurer: Tony Moore
 
@@ -129,8 +134,7 @@ Robert was born in 1967 in Winchester, southern England. His father Ian is a kee
 
 {{< figure src="/img/office_bearers/Ying_Luo.jpg" width=40% title="Ying in the ANIC"  >}}
 
-Ying Luo is an early career entomologist, studying the systematics and biology of Australian Gracillariidae based at the Australian National Insect Collection and The Australian National University. Her entomological exploits have taken her far and wide, from a research assistant position in Hong Kong to a project officer with the Northern Australia Quarantine Strategy (Department of Agriculture, Water and the Environment) in Darwin. She described her first insect species at the age of 21 and since then has been looking for opportunities to describe even more. This desire led her to her current project which will involve an integrated taxonomic revision of the Australian Gracillariidae, a group of micro-lepidopterans whose larvae are leaf miners. Due to the lack of previous work in this area, she is keen to understand more about all leaf-mining Lepidoptera. Ying is passionate about the diversity of insects and diversity in science, and looks forward to being part of MABA. 
-
+Ying Luo is an early career entomologist, with a background in molecular systematics. Her entomological exploits have taken her far and wide, from a research assistant position in Hong Kong to a project officer with the Northern Australia Quarantine Strategy (Department of Agriculture, Water and the Environment) in Darwin. She described her first insect species (an ant) at the age of 21 and since then has been looking for opportunities to describe even more. This desire led her to her MPhil project based at the Australian National Insect Collection on a group of leaf-mining lepidopterans, the Phyllocnistinae (Family: Gracillariidae). Due to the lack of previous work in this area, she is keen to understand more about all leaf-mining Lepidoptera. Ying is passionate about the diversity of insects and diversity in science.
 
 ### Councillor: Marlene Walter
 
@@ -138,3 +142,5 @@ To be added.
 
 
 ### Councillor (fund raising officer): Vacant
+
+### Councillor (media officer): Vacant
