@@ -132,7 +132,7 @@ Robert was born in 1967 in Winchester, southern England. His father Ian is a kee
 
 ### Councillor (Website Officer): Ying Luo
 
-{{< figure src="/img/office_bearers/Ying_Luo.jpg" width=40% title="Ying Luo"  >}}
+{{< figure src="/img/office_bearers/Ying_Luo2.jpg" width=40% title="Ying Luo"  >}}
 
 Ying Luo is an early career entomologist, with a background in molecular systematics. Her entomological exploits have taken her far and wide, from a research assistant position in Hong Kong to a project officer with the Northern Australia Quarantine Strategy (Department of Agriculture, Water and the Environment) in Darwin. She described her first insect species (an ant) at the age of 21 and since then has been looking for opportunities to describe even more. This desire led her to her MPhil project based at the Australian National Insect Collection on a group of leaf-mining lepidopterans, the Phyllocnistinae (Family: Gracillariidae). Due to the lack of previous work in this area, she is keen to understand more about all leaf-mining Lepidoptera. Ying is passionate about the diversity of insects and diversity in science.
 
