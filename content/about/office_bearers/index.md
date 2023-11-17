@@ -51,8 +51,6 @@ newzealand@maba.org.au
 Marlene Walter (Councillor)
 general@maba.org.au
 
-Councillor (fund raising officer) - Vacant
-
 Councillor (media officer) - Vacant
 
 
@@ -139,8 +137,5 @@ Ying Luo is an early career entomologist, with a background in insect taxonomy a
 ### Councillor: Marlene Walter
 
 To be added.
-
-
-### Councillor (fund raising officer): Vacant
 
 ### Councillor (media officer): Vacant
