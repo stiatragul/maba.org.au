@@ -130,12 +130,14 @@ Robert was born in 1967 in Winchester, southern England. His father Ian is a kee
 
 ### Councillor (Website Officer): Ying Luo
 
-{{< figure src="/img/office_bearers/Ying_Luo2.jpg" width=40% title="Ying Luo"  >}}
+{{< figure src="./img/office_bearers/Ying_Luo2.jpg" width=40% title="Ying Luo"  >}}
 
 Ying Luo is an early career entomologist, with a background in insect taxonomy and systematics. Her entomological exploits have taken her far and wide, from working as a research assistant in Hong Kong to working in Darwin. She described her first insect species (an ant) at the age of 21 and since then has been looking for opportunities to describe even more. This desire led her to her MPhil project based at the Australian National Insect Collection on a group of leaf-mining lepidopterans, the Phyllocnistinae (Family: Gracillariidae). Due to the lack of previous work in this area, she is keen to understand more about all leaf-mining Lepidoptera. Ying is passionate about the diversity of insects and diversity in science.
 
 ### Councillor: Marlene Walter
 
-To be added.
+{{< figure src="/img/office_bearers/Mally_Walter.jpg" width=60% title="Marlene Walter"  >}}
+
+Marlene has been passionate about moths, butterflies and really everything nature-related for as long as she can remember. She blames her grandma – she used to read The Very Hungry Caterpillar to her every day when she was very litte. She has always wanted to work in a nature-related field and has finally achieved this after finishing her B.Sc. in Land management and Nature Conservation in 2019. She is at the moment working as a field ecologist, passionate about the outdoors, entomology and botany. In the past years she has worked with Axel, Doug and Liz on the Heliozelidae Project and has been rearing caterpillars in the moth families Anthelidae and Lasiocampidae with the aim of shedding light on their biology and contributing to the resolution of species complexes. She is currently describing her first species (a moth) and eager to embark on a higher degree in the future.
 
 ### Councillor (media officer): Vacant
