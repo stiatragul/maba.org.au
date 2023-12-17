@@ -36,7 +36,7 @@ A call for applications will be made by MABA in January each year and will outli
 Any member of MABA, amateur or professional, working on the conservation of the Australasian Lepidoptera fauna, is eligible to apply. This small grant scheme is open to all members whose work is likely to benefit the conservation of moths and butterflies in Australasia. Funds can be used to support an array of activities, such as inventory (field surveys and exploration), monitoring (e.g., threatened species, habitat quality), assessing key threatening processes, mapping critical habitat, practical management of reserves from threats (e.g., invasive plants, exotic pests), equipment and consumables, travel expenses related to field research etc.
 
 ## Application
-Please download the MABA Biodiversity Fund Application Form here. The application should be no more than two pages: one page for the application form itself and a second page providing a brief CV of the applicant. Please submit your application by email to secretary@maba.org.au by 1 March.
+**[Please download the MABA Biodiversity Fund Application Form here](https://docs.google.com/document/d/1ZLS9VjY08MKnH8zzuwKWcDzsw9GjzsJY/edit?usp=drive_link&ouid=112511687113534629203&rtpof=true&sd=true8)**. The application should be no more than two pages: one page for the application form itself and a second page providing a brief CV of the applicant. Please submit your application by email to secretary@maba.org.au by 1 March.
 
 ## Call for Grant Applications 2024
 No small grants are currently available for 2024. However, we have funds ($40,000) for an Early Career Research Grant.
