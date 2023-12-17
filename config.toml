@@ -79,12 +79,7 @@ paginate = 10
     weight     = 5
     parent     = "menu.membership"
 
-    [[menu.main]]
-    name       = "Code of conduct"
-    # identifier = "section.ap-home"
-    url        = "/membership/code_of_conduct/"
-    weight     = 4
-    parent     = "menu.membership"
+
 
 
 #[[menu.main]]
@@ -224,7 +219,12 @@ paginate = 10
     weight     = 2
     parent     = "menu.events"
     post       = 1
-
+    
+[[menu.main]]
+    name       = "Code of conduct"
+    url        = "/events/code_of_conduct/"
+    weight     = 3
+    parent     = "menu.membership"
 
 #[[menu.main]]
 #    name       = "Butterflies Australia"

@@ -7,12 +7,12 @@ authors = ["admin"]
 
 ## About MABA Grants
 
-MABA provides grants to support two key areas in Lepidoptera research: 
+MABA provides two grants to support the following key areas in Lepidoptera research: 
 
-1. Biosystematics, and 
-2. Biodiversity conservation. 
+1. Biosystematics, through the Australian Lepidoptera Research Endowment 
+2. Biodiversity conservation, through the MABA Biodiversity Fund.
 
-MABA offers two main grants. For more information on each grant, visit their page.
+A summary of these grants is provided below. For more information on each grant, visit their page.
 
 ### **The Australian Lepidoptera Research Endowment**
 
@@ -25,4 +25,7 @@ This grant is open to any lepidopterist, amateur or professional, working on the
 
 The [MABA Biodiversity Fund]( {{< ref "biodiversityfund/index.md" >}}) was established by Michael Braby on behalf of MABA for the specific purpose of supporting the society’s environmental objectives on biodiversity conservation, namely to promote and support the conservation of moths and butterflies and their habitats. 
 
-This grant is not yet open for applications. It will be open for applicants working on **Australasian** fauna. We have submitted an application to the Register of Environmental Organisations and, if successful, the Fund will be endorsed to receive tax deductible donations (i.e., deductible gift recipient status). 
+Thsi Fund has been approved by the Register of Environmental Organisations, which means that the Fund has tax deductible gift recipient status (i.e. donors are endorsed to recieved tax deductions for their donations). The grant is open for members (amateurs or professional), working on the **Australian** fauna. 
+
+For any enquires regarding these grants, you may contact our secretary: secretary@maba.org.au
+
