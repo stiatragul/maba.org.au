@@ -224,7 +224,7 @@ paginate = 10
     name       = "Code of conduct"
     url        = "/events/code_of_conduct/"
     weight     = 3
-    parent     = "menu.membership"
+    parent     = "menu.events"
 
 #[[menu.main]]
 #    name       = "Butterflies Australia"
