@@ -5,14 +5,12 @@ keywords = ["BiodiversityFund"]
 authors = ["admin"]
 +++
 
-# AVAILABLE GRANTS
-
-### About the MABA Biodiversity Fund
+# About the MABA Biodiversity Fund
 The purpose of the MABA Biodiversity Fund is to support the society’s environmental objectives on biodiversity conservation. It aims to promote and support the conservation of moths and butterflies and their habitats, as well as provide information to government agencies and non-government organisations on land use, threatened species and biodiversity for the purpose of advancing the health of the natural environment. The Fund has been approved by the Register of Environmental Organisations which means that the Fund has tax deductible gift recipient status (i.e., donors are endorsed to receive tax deductions for their donations). 
 
 This small grant scheme (up to $2,000) is open to all members whose work is likely to benefit the conservation of moths and butterflies in Australasia. Non-professional Lepidopterists/entomologists are encouraged to apply. Funds can be used to support a diverse array of activities within the field of conservation biology. 
 
-#### The need for support for conservation on Australasian Lepidoptera
+### The need for support for conservation on Australasian Lepidoptera
 Moths and butterflies are a substantial component of the biodiversity of Australia and its surrounding islands in the South-west Pacific. They play crucial roles in the functioning of our diverse ecosystems and perform vital services, such as pollination of flowering plants, herbivory and nutrient cycling of plants, and they serve as food for predators. They are sensitive to environmental changes and thus are important indicators of habitat and ecosystem condition. Many species are under threat from a combination of habitat loss and global warming and other anthropogenic threats; some like the iconic Bogong Moth and Narrow-winged Awl have declined dramatically in abundance in recent years, while others such as the Pale Imperial Hairstreak that formerly occurred over a vast area have now disappeared from many locations, contracted in geographical range and extant populations are now highly fragmented. Scientific research allows natural resource managers to develop solutions to problems and achieve practical conservation outcomes. The MABA Biodiversity Fund grants scheme provides an opportunity for members to access funding to enable them to contribute positively to the conservation of moths and butterflies and their habitats.
 
 ## Scientific Advisory Committee

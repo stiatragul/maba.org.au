@@ -23,9 +23,9 @@ This grant is open to any lepidopterist, amateur or professional, working on the
 
 ### **The MABA Biodiversity Fund**
 
-The [MABA Biodiversity Fund]( {{< ref "biodiversityfund/index.md" >}}) was established by Michael Braby on behalf of MABA for the specific purpose of supporting the society’s environmental objectives on biodiversity conservation, namely to promote and support the conservation of moths and butterflies and their habitats. 
+The [MABA Biodiversity Fund]( {{< ref "available_grants/biodiversity_fund/index.md" >}}) was established by Michael Braby on behalf of MABA for the specific purpose of supporting the society’s environmental objectives on biodiversity conservation, namely to promote and support the conservation of moths and butterflies and their habitats. 
 
-Thsi Fund has been approved by the Register of Environmental Organisations, which means that the Fund has tax deductible gift recipient status (i.e. donors are endorsed to recieved tax deductions for their donations). The grant is open for members (amateurs or professional), working on the **Australian** fauna. 
+This Fund has been approved by the Register of Environmental Organisations, which means that the Fund has tax deductible gift recipient status (i.e. donors are endorsed to recieved tax deductions for their donations). The grant is open for members (amateurs or professional), working on the **Australasian** fauna. 
 
 For any enquires regarding these grants, you may contact our secretary: secretary@maba.org.au
 
