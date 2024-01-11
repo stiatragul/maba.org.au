@@ -32,9 +32,9 @@ The endowment supports endeavors in the following areas of interest on Australia
 
 A list of all past successful grants are on the [Past Awarded Grants]( {{< ref "alre/pastgrants/index.md" >}}) page. 
 
-## Call for Grant Applications 2023 - 2024
+## Call for Grant Applications 2024 - 2025
 
-We are pleased to announce grants of up to $4500 from the Perpetual Foundation - Australian Lepidoptera Research Endowment (ALRE) for the financial year July 2023 to 2024, and we are inviting applications.​
+We are pleased to announce grants of up to $4500 from the Perpetual Foundation - Australian Lepidoptera Research Endowment (ALRE) for the financial year July 2024 to June 2025, and we are inviting applications.​ Because we did not disburse any funds last year larger projects will be considered subject to discussion.
 
 ## Eligibility
 
@@ -44,13 +44,13 @@ To be eligible, grants can only be handled by organisations that hold Australian
 
 ## Selection Process
  
-The applications will be assessed by the Scientific Advisory Committee and a recommendation with applications to be funded from the ALRE will be made to the trustee in April 2023. Successful applicants will be advised by the trustee by 31 May 2023 and the grant will be disbursed to the eligible beneficiaries.
+The applications will be assessed by the Scientific Advisory Committee and a recommendation with applications to be funded from the ALRE will be made to the trustee in April 2024. Successful applicants will be advised by the trustee by 31 May 2024 and the grant will be disbursed to the eligible beneficiaries.
 
 ​
 ## ​Application
 Please download the application form here: [Application Form](https://drive.google.com/file/d/1Gg6Whnp2kmfPY69AFhJsxGBWM0ZAc79P/view?usp=sharing)
 
-The application form should be submitted by **1 March 2023** by email to Marianne.Horak@csiro.au.
+The application form should be submitted by **1 March 2024** by email to Marianne.Horak@csiro.au.
 
 
 For queries please contact Marianne Horak at Marianne.Horak@csiro.au or via telephone 041749438. 
