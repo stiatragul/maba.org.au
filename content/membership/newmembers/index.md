@@ -11,7 +11,7 @@ There are two methods to sign up as a new member to MABA. Either method is fine,
 
 **Join Online via Jotform**
 
-To join online, you can fill out your details digitally on this **[online application form ](https://form.jotform.com/222487646525868)**. 
+To join online, you can fill out your details digitally on this **[online application form ](https://form.jotform.com/240070433491852)**. 
 
 
 **Join by filling out this PDF and emailing it to us**
@@ -40,4 +40,4 @@ Membership fees are as follows:
 
 ## Renewing your Membership
 
-To renew membership,you can use the [online Jotform ](https://form.jotform.com/222487646525868). 
+To renew membership,you can use the [online Jotform ](https://form.jotform.com/240070433491852). 
